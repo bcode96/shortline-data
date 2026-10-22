@@ -16,8 +16,7 @@
    "name": "WWS Overall Tour",
    "blurb": "Overall skiing: slalom, trick and jump scored together. Four stops in North America and Europe.",
    "unit": "stop",
-   "url": "https://worldwaterskiers.com",
-   "imageUrl": "https://worldwaterskiers.com/uploads/settings/eafc3c1ec8dfb701570b7449d832a91330e6e68301e661eea4b4abf6992b173e.jpg"
+   "url": "https://worldwaterskiers.com"
   },
   {
    "id": "naut",
@@ -549,8 +548,7 @@
     "O"
    ],
    "lane": "wws",
-   "end": "2026-07-11",
-   "imageCredit": "worldwaterskiers.com"
+   "end": "2026-07-11"
   },
   {
    "id": "wws-wws-canada-cup-2026",
@@ -561,8 +559,7 @@
     "O"
    ],
    "lane": "wws",
-   "end": "2026-07-18",
-   "imageCredit": "worldwaterskiers.com"
+   "end": "2026-07-18"
   },
   {
    "id": "wws-wws-austria-cup-2026",
@@ -575,7 +572,6 @@
    "lane": "wws",
    "end": "2026-08-09",
    "note": "Also called the Salmsee Cup.",
-   "imageCredit": "worldwaterskiers.com",
    "results": [
     {
      "name": "Pro women, overall",
@@ -630,8 +626,7 @@
    ],
    "lane": "wws",
    "end": "2026-09-12",
-   "note": "USA Water Ski lists this weekend as Sept. 11 to 13.",
-   "imageCredit": "worldwaterskiers.com"
+   "note": "USA Water Ski lists this weekend as Sept. 11 to 13."
   },
   {
    "id": "naut-botaski-proam-2026",
