@@ -1,1429 +1,1596 @@
 {
- "updated": "2026-10-20",
- "lanes": [
-  {
-   "id": "pro",
-   "group": "tour",
-   "name": "Waterski Pro Tour",
-   "blurb": "IWWF-sanctioned and season-long. Mostly slalom, with trick and jump stops.",
-   "unit": "stop",
-   "url": "https://www.waterskiprotour.com",
-   "imageUrl": "https://static.wixstatic.com/media/006129_2473d4bbf3e245d0ae0e83cf0145e98a~mv2.jpg/v1/fill/w_980,h_655,al_c,q_85/006129_2473d4bbf3e245d0ae0e83cf0145e98a~mv2.jpg"
-  },
-  {
-   "id": "wws",
-   "group": "tour",
-   "name": "WWS Overall Tour",
-   "blurb": "Overall skiing: slalom, trick and jump scored together. Four stops in North America and Europe.",
-   "unit": "stop",
-   "url": "https://worldwaterskiers.com"
-  },
-  {
-   "id": "naut",
-   "group": "tour",
-   "name": "Nautique Water Ski World Series",
-   "blurb": "Five stops over 2026 and 2027, ending at the Masters. Winners earn Masters invitations.",
-   "unit": "stop",
-   "url": "https://nautique.com/events/nautique-water-ski-world-series"
-  },
-  {
-   "id": "solo",
-   "group": "standalone",
-   "name": "Standalone tournaments",
-   "blurb": "Pro events that run outside the three tours.",
-   "unit": "event"
-  },
-  {
-   "id": "worlds",
-   "group": "standalone",
-   "name": "World championships",
-   "blurb": "IWWF title events for juniors, seniors and the open class.",
-   "unit": "event",
-   "url": "https://iwwf.sport/world-title-events/openworlds2027/"
-  }
- ],
- "events": [
-  {
-   "id": "pro-swiss-pro-tricks-2026",
-   "name": "Swiss Pro Tricks",
-   "start": "2026-04-19",
-   "place": "Swiss Waterski Resort, Clermont, Florida, USA",
-   "disciplines": [
-    "T"
-   ],
-   "lane": "pro",
-   "note": "First Pro Tour stop of 2026. Trick only.",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-swiss-pro-slalom-2026",
-   "name": "Swiss Pro Slalom",
-   "start": "2026-05-03",
-   "place": "Swiss Waterski Resort, Clermont, Florida, USA",
-   "disciplines": [
-    "S"
-   ],
-   "lane": "pro",
-   "note": "Slalom stop at the same venue.",
-   "results": [
+  "updated": "2026-10-21",
+  "lanes": [
     {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Charlie Ross",
-       "score": "1.00 @ 9.75m"
-      },
-      {
-       "place": 2,
-       "name": "Nate Smith",
-       "score": "0.50 @ 9.75m"
-      },
-      {
-       "place": 3,
-       "name": "Freddie Winter",
-       "score": "5.00 @ 10.25m"
-      }
-     ]
+      "id": "pro",
+      "group": "tour",
+      "name": "Waterski Pro Tour",
+      "blurb": "IWWF-sanctioned and season-long. Mostly slalom, with trick and jump stops.",
+      "unit": "stop",
+      "url": "https://www.waterskiprotour.com",
+      "imageUrl": "https://static.wixstatic.com/media/006129_2473d4bbf3e245d0ae0e83cf0145e98a~mv2.jpg/v1/fill/w_980,h_655,al_c,q_85/006129_2473d4bbf3e245d0ae0e83cf0145e98a~mv2.jpg"
     },
     {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess",
-       "score": "1.50 @ 10.25m"
-      },
-      {
-       "place": 2,
-       "name": "Jaimee Bull",
-       "score": "4.00 @ 10.75m"
-      },
-      {
-       "place": 3,
-       "name": "Allie Nicholson",
-       "score": "3.00 @ 10.75m"
-      }
-     ]
+      "id": "wws",
+      "group": "tour",
+      "name": "WWS Overall Tour",
+      "blurb": "Overall skiing: slalom, trick and jump scored together. Four stops in North America and Europe.",
+      "unit": "stop",
+      "url": "https://worldwaterskiers.com"
+    },
+    {
+      "id": "naut",
+      "group": "tour",
+      "name": "Nautique Water Ski World Series",
+      "blurb": "Five stops over 2026 and 2027, ending at the Masters. Winners earn Masters invitations.",
+      "unit": "stop",
+      "url": "https://nautique.com/events/nautique-water-ski-world-series"
+    },
+    {
+      "id": "solo",
+      "group": "standalone",
+      "name": "Standalone tournaments",
+      "blurb": "Pro events that run outside the three tours.",
+      "unit": "event"
+    },
+    {
+      "id": "worlds",
+      "group": "standalone",
+      "name": "World championships",
+      "blurb": "IWWF title events for juniors, seniors and the open class.",
+      "unit": "event",
+      "url": "https://iwwf.sport/world-title-events/openworlds2027/"
     }
-   ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/ross-and-jaquess-take-titles-at-2026-swiss-pro-slalom/",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-royal-nautique-pro-2026",
-   "name": "Royal Nautique Pro",
-   "start": "2026-06-05",
-   "place": "Rabat, Morocco",
-   "disciplines": [
-    "S",
-    "T"
-   ],
-   "lane": "pro",
-   "end": "2026-06-07",
-   "note": "The tour's stop in Africa.",
-   "results": [
+  ],
+  "events": [
     {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Freddie Winter"
-      }
-     ]
+      "id": "pro-swiss-pro-tricks-2026",
+      "name": "Swiss Pro Tricks",
+      "start": "2026-04-19",
+      "place": "Swiss Waterski Resort, Clermont, Florida, USA",
+      "disciplines": [
+        "T"
+      ],
+      "lane": "pro",
+      "note": "First Pro Tour stop of 2026. Trick only.",
+      "imageCredit": "waterskiprotour.com",
+      "results": [
+        {
+          "name": "Pro women, tricks",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Erika Lang",
+              "score": "11,610 pts"
+            }
+          ]
+        },
+        {
+          "name": "Pro men, tricks",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Matias Gonzalez",
+              "score": "12,860 pts"
+            }
+          ]
+        }
+      ]
     },
     {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jaimee Bull"
-      }
-     ]
+      "id": "pro-swiss-pro-slalom-2026",
+      "name": "Swiss Pro Slalom",
+      "start": "2026-05-03",
+      "place": "Swiss Waterski Resort, Clermont, Florida, USA",
+      "disciplines": [
+        "S"
+      ],
+      "lane": "pro",
+      "note": "Slalom stop at the same venue.",
+      "results": [
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Charlie Ross",
+              "score": "1.00 @ 9.75m"
+            },
+            {
+              "place": 2,
+              "name": "Nate Smith",
+              "score": "0.50 @ 9.75m"
+            },
+            {
+              "place": 3,
+              "name": "Freddie Winter",
+              "score": "5.00 @ 10.25m"
+            }
+          ]
+        },
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess",
+              "score": "1.50 @ 10.25m"
+            },
+            {
+              "place": 2,
+              "name": "Jaimee Bull",
+              "score": "4.00 @ 10.75m"
+            },
+            {
+              "place": 3,
+              "name": "Allie Nicholson",
+              "score": "3.00 @ 10.75m"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.baselinewaterski.com/news/ross-and-jaquess-take-titles-at-2026-swiss-pro-slalom/",
+      "imageCredit": "waterskiprotour.com"
     },
     {
-     "name": "Men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jake Abelson",
-       "score": "13,040 (pending world record)"
-      },
-      {
-       "place": 2,
-       "name": "Patricio Font",
-       "score": "12,690"
-      }
-     ]
+      "id": "pro-royal-nautique-pro-2026",
+      "name": "Royal Nautique Pro",
+      "start": "2026-06-05",
+      "place": "Rabat, Morocco",
+      "disciplines": [
+        "S",
+        "T"
+      ],
+      "lane": "pro",
+      "end": "2026-06-07",
+      "note": "The tour's stop in Africa.",
+      "results": [
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Freddie Winter"
+            }
+          ]
+        },
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jaimee Bull"
+            }
+          ]
+        },
+        {
+          "name": "Men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jake Abelson",
+              "score": "13,040 (pending world record)"
+            },
+            {
+              "place": 2,
+              "name": "Patricio Font",
+              "score": "12,690"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.baselinewaterski.com/news/jake-abelson-sets-pending-world-record-to-capture-royal-nautique-pro/",
+      "imageCredit": "waterskiprotour.com"
+    },
+    {
+      "id": "pro-louisiana-night-jam-2026",
+      "name": "Louisiana Night Jam",
+      "start": "2026-06-06",
+      "place": "Zachary, Louisiana, USA",
+      "disciplines": [
+        "J"
+      ],
+      "lane": "pro",
+      "note": "Jump only, under lights.",
+      "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
+      "scoresUrl": "https://scores.waterskiresults.com/default?YR=26&RG=&sanctionId=26C040",
+      "imageCredit": "waterskiprotour.com"
+    },
+    {
+      "id": "pro-monaco-waterski-cup-2026",
+      "name": "Monaco Waterski Cup",
+      "start": "2026-06-12",
+      "place": "Roquebrune-sur-Argens, France",
+      "disciplines": [
+        "S",
+        "T"
+      ],
+      "lane": "pro",
+      "end": "2026-06-14",
+      "results": [
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jaimee Bull",
+              "score": "3.00"
+            },
+            {
+              "place": 2,
+              "name": "Trinidad Espinal",
+              "score": "3.00"
+            },
+            {
+              "place": 3,
+              "name": "Allie Nicholson",
+              "score": "3.00"
+            }
+          ]
+        },
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Charlie Ross",
+              "score": "1.00"
+            },
+            {
+              "place": 2,
+              "name": "Sacha Descuns",
+              "score": "5.00"
+            },
+            {
+              "place": 3,
+              "name": "Freddie Winter",
+              "score": "3.50"
+            }
+          ]
+        },
+        {
+          "name": "Women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Neilly Ross",
+              "score": "10,640"
+            },
+            {
+              "place": 2,
+              "name": "Giannina Bonnemann Mechler",
+              "score": "9,520"
+            },
+            {
+              "place": 3,
+              "name": "Kennedy Hansen",
+              "score": "9,610"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.iwwfed-ea.org/classic/26/26MON001/26MON001.pdf",
+      "imageCredit": "waterskiprotour.com"
+    },
+    {
+      "id": "pro-recetto-proam-2026",
+      "name": "Recetto ProAm",
+      "start": "2026-07-03",
+      "place": "Recetto, Italy",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "pro",
+      "end": "2026-07-05",
+      "note": "First edition, at the site of the 2025 World Championships.",
+      "results": [
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Freddie Winter"
+            }
+          ]
+        },
+        {
+          "name": "Men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Patricio Font"
+            }
+          ]
+        },
+        {
+          "name": "Men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Luca Rauchenwald"
+            },
+            {
+              "place": 2,
+              "name": "Ryan Dodd"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.baselinewaterski.com/news/six-takeaways-from-the-european-leg-of-the-2026-professional-water-ski-season/",
+      "imageCredit": "waterskiprotour.com"
+    },
+    {
+      "id": "pro-poti-pro-am-2026",
+      "name": "Poti Pro Am",
+      "start": "2026-07-20",
+      "place": "Poti, Georgia",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "pro",
+      "end": "2026-07-21",
+      "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
+      "imageCredit": "waterskiprotour.com",
+      "results": [
+        {
+          "name": "Pro women, slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Sade Ferguson (AUS)"
+            },
+            {
+              "place": 2,
+              "name": "Katerina Vrabcova (CZE)"
+            },
+            {
+              "place": 3,
+              "name": "Beatrice Ianni (ITA)"
+            }
+          ]
+        },
+        {
+          "name": "Pro men, slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Frederick Winter (GBR)"
+            },
+            {
+              "place": 2,
+              "name": "Thomas Degasperi (ITA)"
+            },
+            {
+              "place": 3,
+              "name": "Brando Caruso (ITA)"
+            }
+          ]
+        },
+        {
+          "name": "Pro women, tricks",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Mariia Popova (UKR)"
+            },
+            {
+              "place": 2,
+              "name": "Tatiana Churakova (IWWF)"
+            },
+            {
+              "place": 3,
+              "name": "Ines Anguenot (FRA)"
+            }
+          ]
+        },
+        {
+          "name": "Pro men, tricks",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Danylo Filchenko (UKR)"
+            },
+            {
+              "place": 2,
+              "name": "Damir Filaretov (UKR)"
+            },
+            {
+              "place": 3,
+              "name": "Axel Garcia (FRA)"
+            }
+          ]
+        },
+        {
+          "name": "Pro women, jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Linda Polidorova (CZE)"
+            },
+            {
+              "place": 2,
+              "name": "Ines Anguenot (FRA)"
+            },
+            {
+              "place": 3,
+              "name": "Perrine Sonier (FRA)"
+            }
+          ]
+        },
+        {
+          "name": "Pro men, jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Luca Rauchenwald (AUT)"
+            },
+            {
+              "place": 2,
+              "name": "Danylo Filchenko (UKR)"
+            },
+            {
+              "place": 3,
+              "name": "Vladimir Ryanzin (IWWF)"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.iwwfed-ea.net/classic/26/26GEO001/26GEO001.html",
+      "note": "Placings come from the IWWF ranking list, which was still marked pending homologation."
+    },
+    {
+      "id": "pro-lake-38-proam-2026",
+      "name": "Lake 38 ProAm",
+      "start": "2026-09-11",
+      "place": "Tallahassee, Florida, USA",
+      "disciplines": [
+        "S"
+      ],
+      "lane": "pro",
+      "end": "2026-09-13",
+      "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
+      "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S022",
+      "imageCredit": "waterskiprotour.com",
+      "resultsUrl": "https://www.iwwfed-ea.net/classic/26USA078/",
+      "replayUrl": "https://www.youtube.com/watch?v=Dd8udX8VCng"
+    },
+    {
+      "id": "pro-mastercraft-pro-2026",
+      "name": "MasterCraft Pro",
+      "start": "2026-09-18",
+      "place": "Champions Lake, Auburndale, Florida, USA",
+      "disciplines": [
+        "S",
+        "J"
+      ],
+      "lane": "pro",
+      "end": "2026-09-20",
+      "note": "New venue for 2026.",
+      "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S031",
+      "results": [
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess",
+              "score": "1 @ 10.25m"
+            },
+            {
+              "place": 2,
+              "name": "Jaimee Bull",
+              "score": "1.5 @ 10.25m"
+            },
+            {
+              "place": 3,
+              "name": "Allie Nicholson",
+              "score": "2 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Charlie Ross",
+              "score": "3 @ 10.25m"
+            },
+            {
+              "place": 2,
+              "name": "Nate Smith",
+              "score": "2 @ 10.25m"
+            },
+            {
+              "place": 3,
+              "name": "Rob Hazelwood",
+              "score": "1 @ 10.25m"
+            }
+          ]
+        },
+        {
+          "name": "Women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Anna Hunter",
+              "score": "10,540"
+            },
+            {
+              "place": 2,
+              "name": "Giannina Bonnemann Mechler",
+              "score": "10,470"
+            },
+            {
+              "place": 3,
+              "name": "Hannah Stopnicki",
+              "score": "8,290"
+            }
+          ]
+        },
+        {
+          "name": "Men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Joel Poland",
+              "score": "12,510"
+            },
+            {
+              "place": 2,
+              "name": "Patricio Font",
+              "score": "12,240"
+            },
+            {
+              "place": 3,
+              "name": "Edoardo Marenzi",
+              "score": "10,970"
+            }
+          ]
+        },
+        {
+          "name": "Women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Aliaksandra Danisheuskaya",
+              "score": "175 ft"
+            },
+            {
+              "place": 2,
+              "name": "Giannina Bonnemann Mechler",
+              "score": "173 ft"
+            },
+            {
+              "place": 3,
+              "name": "Lauren Morgan",
+              "score": "167 ft"
+            }
+          ]
+        },
+        {
+          "name": "Men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Joel Poland",
+              "score": "226 ft"
+            },
+            {
+              "place": 2,
+              "name": "Edoardo Marenzi",
+              "score": "212 ft"
+            },
+            {
+              "place": 3,
+              "name": "Igor Morozov",
+              "score": "209 ft"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.usawaterski.org/news/2026/september/21/2026-mastercraft-pro",
+      "replayUrl": "https://youtube.com/playlist?list=PLM3-mBhqIdiXOJjnZ8mmxSjd4O16R5qDB",
+      "imageCredit": "waterskiprotour.com"
+    },
+    {
+      "id": "pro-travers-grand-prix-2026",
+      "name": "Travers Grand Prix",
+      "start": "2026-09-25",
+      "place": "Sunset Lakes, Groveland, Florida, USA",
+      "disciplines": [
+        "S"
+      ],
+      "lane": "pro",
+      "end": "2026-09-27",
+      "note": "The tour lists this as its 11th stop of 2026.",
+      "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S015",
+      "imageCredit": "waterskiprotour.com",
+      "results": [
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess (USA)",
+              "score": "2 @ 10.25m"
+            },
+            {
+              "place": 2,
+              "name": "Jaimee Bull (CAN)",
+              "score": "2 @ 10.25m"
+            },
+            {
+              "place": 3,
+              "name": "Elizabeth Montavon (USA)",
+              "score": "4 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Dane Mechler (USA)",
+              "score": "0.5 @ 9.75m"
+            },
+            {
+              "place": 2,
+              "name": "William Asher (GBR)",
+              "score": "5 @ 10.25m"
+            },
+            {
+              "place": 3,
+              "name": "Jonathan Travers (USA)",
+              "score": "5 @ 10.25m"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.iwwfed-ea.net/classic/27USAS015/"
+    },
+    {
+      "id": "pro-miami-pro-2026",
+      "name": "Miami Pro",
+      "start": "2026-10-03",
+      "place": "Miami, Florida, USA",
+      "disciplines": [
+        "S"
+      ],
+      "lane": "pro",
+      "end": "2026-10-04",
+      "note": "Slalom only.",
+      "flag": "It was a Pro Tour stop in 2024. Its 2026 tour status was not confirmed.",
+      "imageCredit": "waterskiprotour.com"
+    },
+    {
+      "id": "wws-wws-granite-cup-2026",
+      "name": "WWS Granite Cup",
+      "start": "2026-07-10",
+      "place": "Wolfeboro, New Hampshire, USA",
+      "disciplines": [
+        "O"
+      ],
+      "lane": "wws",
+      "end": "2026-07-11"
+    },
+    {
+      "id": "wws-wws-canada-cup-2026",
+      "name": "WWS Canada Cup",
+      "start": "2026-07-17",
+      "place": "Saint-Donat, Canada",
+      "disciplines": [
+        "O"
+      ],
+      "lane": "wws",
+      "end": "2026-07-18"
+    },
+    {
+      "id": "wws-wws-austria-cup-2026",
+      "name": "WWS Austria Cup",
+      "start": "2026-08-08",
+      "place": "Salmsee, Austria",
+      "disciplines": [
+        "O"
+      ],
+      "lane": "wws",
+      "end": "2026-08-09",
+      "note": "Also called the Salmsee Cup.",
+      "results": [
+        {
+          "name": "Pro women, overall",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Kennedy Hansen (USA)",
+              "score": "2887.82 pts"
+            },
+            {
+              "place": 2,
+              "name": "Giannina Bonnemann Mechler (GER)",
+              "score": "2877.55 pts"
+            },
+            {
+              "place": 3,
+              "name": "Brooke Boskus (USA)",
+              "score": "1675.23 pts"
+            }
+          ]
+        },
+        {
+          "name": "Pro men, overall",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Joel Poland (GBR)",
+              "score": "3000.00 pts"
+            },
+            {
+              "place": 2,
+              "name": "Edoardo Marenzi (ITA)",
+              "score": "2746.03 pts"
+            },
+            {
+              "place": 3,
+              "name": "Dorien Llewellyn (CAN)",
+              "score": "2644.52 pts"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.iwwfed-ea.net/classic/26AUT006/"
+    },
+    {
+      "id": "wws-wws-groveland-cup-2026",
+      "name": "WWS Groveland Cup",
+      "start": "2026-09-11",
+      "place": "Sunset Lakes, Groveland, Florida, USA",
+      "disciplines": [
+        "O"
+      ],
+      "lane": "wws",
+      "end": "2026-09-12",
+      "note": "USA Water Ski lists this weekend as Sept. 11 to 13."
+    },
+    {
+      "id": "naut-botaski-proam-2026",
+      "name": "Botaski ProAm",
+      "start": "2026-06-25",
+      "place": "Botaski, Seseña, Spain",
+      "disciplines": [
+        "S",
+        "T"
+      ],
+      "lane": "naut",
+      "end": "2026-06-28",
+      "note": "Opening stop of the first World Series. Not part of the Pro Tour.",
+      "results": [
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Charlie Ross",
+              "score": "0.5 @ 9.75m"
+            }
+          ]
+        },
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess",
+              "score": "2.5 @ 10.25m (course record)"
+            },
+            {
+              "place": 2,
+              "name": "Jaimee Bull"
+            }
+          ]
+        },
+        {
+          "name": "Men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jake Abelson",
+              "score": "13,100"
+            },
+            {
+              "place": 2,
+              "name": "Patricio Font",
+              "score": "12,840"
+            },
+            {
+              "place": 3,
+              "name": "Joel Poland",
+              "score": "12,160"
+            }
+          ]
+        },
+        {
+          "name": "Women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Erika Lang",
+              "score": "11,430"
+            },
+            {
+              "place": 2,
+              "name": "Neilly Ross"
+            }
+          ]
+        },
+        {
+          "name": "Men's jump",
+          "entries": [
+            {
+              "place": 2,
+              "name": "Tim Wild"
+            }
+          ]
+        },
+        {
+          "name": "Women's jump",
+          "entries": [
+            {
+              "place": 2,
+              "name": "Maise Jacobsen"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.baselinewaterski.com/news/record-breaking-performances-headline-inaugural-nautique-world-series-stop-at-botaski/"
+    },
+    {
+      "id": "naut-rocky-mountain-proam-2026",
+      "name": "Rocky Mountain ProAm",
+      "start": "2026-07-30",
+      "place": "Predator Bay, Calgary, Canada",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "naut",
+      "end": "2026-08-02",
+      "note": "First edition. Includes pro, junior and senior divisions.",
+      "results": [
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Joel Poland",
+              "score": "6 @ 10.75m (runoff)"
+            },
+            {
+              "place": 2,
+              "name": "Charlie Ross",
+              "score": "3 @ 10.25m"
+            }
+          ]
+        },
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess",
+              "score": "1.5 @ 10.25m"
+            }
+          ]
+        },
+        {
+          "name": "Men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jake Abelson",
+              "score": "12,820"
+            },
+            {
+              "place": 2,
+              "name": "Matias Gonzalez",
+              "score": "12,790"
+            }
+          ]
+        },
+        {
+          "name": "Women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Anna Hunter",
+              "score": "10,500"
+            },
+            {
+              "place": 2,
+              "name": "Neilly Ross",
+              "score": "10,460"
+            }
+          ]
+        },
+        {
+          "name": "Men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Joel Poland",
+              "score": "64.4 m"
+            },
+            {
+              "place": 2,
+              "name": "Luca Rauchenwald",
+              "score": "63.3 m"
+            }
+          ]
+        },
+        {
+          "name": "Women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Aliaksandra Danisheuskaya"
+            },
+            {
+              "place": 3,
+              "name": "Regina Jaquess"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.baselinewaterski.com/news/joel-poland-makes-history-at-a-rocky-mountain-proam-full-of-drama/"
+    },
+    {
+      "id": "naut-california-proam-2026",
+      "name": "California ProAm",
+      "start": "2026-08-28",
+      "place": "Shortline Lake, Elk Grove, California, USA",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "naut",
+      "end": "2026-08-30",
+      "note": "Third stop of the World Series.",
+      "results": [
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess"
+            },
+            {
+              "place": 2,
+              "name": "Cristhiana De Osma",
+              "score": "4 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Erika Lang",
+              "score": "10,980"
+            },
+            {
+              "place": 2,
+              "name": "Neilly Ross",
+              "score": "10,610"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://nautique.com/press/24th-annual-california-proam-delivers-historic-performances"
+    },
+    {
+      "id": "naut-moomba-masters-2027",
+      "name": "Moomba Masters",
+      "start": "2027-03-04",
+      "place": "Yarra River, Melbourne, Australia",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "naut",
+      "end": "2027-03-08",
+      "note": "Fourth stop of the World Series, inside the Moomba Festival. Champions earn Masters invitations.",
+      "url": "https://www.moombamasters.com.au/",
+      "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
+      "imageCredit": "moombamasters.com.au"
+    },
+    {
+      "id": "naut-masters-lcq-2027",
+      "name": "Masters LCQ",
+      "start": "2027-05-14",
+      "place": "Venue to be announced",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "naut",
+      "end": "2027-05-16",
+      "note": "Last chance qualifier for Masters invitations. It does not count for World Series points."
+    },
+    {
+      "id": "naut-nautique-masters-2027",
+      "name": "Nautique Masters",
+      "start": "2027-05-28",
+      "place": "Callaway Gardens, Pine Mountain, Georgia, USA",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "naut",
+      "end": "2027-05-30",
+      "note": "Final stop and the culminating points event of the World Series. $18,000 purse in each discipline."
+    },
+    {
+      "id": "solo-moomba-masters-2026",
+      "name": "Moomba Masters",
+      "start": "2026-03-05",
+      "place": "Yarra River, Melbourne, Australia",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "solo",
+      "end": "2026-03-09",
+      "note": "65th edition. Its champions earn 2027 Masters invitations but no series points.",
+      "url": "https://www.moombamasters.com.au/",
+      "results": [
+        {
+          "name": "Men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Charlie Ross",
+              "score": "3.5 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess",
+              "score": "1 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Matias Gonzalez",
+              "score": "12,860 (course record)"
+            }
+          ]
+        },
+        {
+          "name": "Women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Erika Lang",
+              "score": "10,930 (course record)"
+            },
+            {
+              "place": 2,
+              "name": "Neilly Ross",
+              "score": "9,630"
+            }
+          ]
+        },
+        {
+          "name": "Men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Ryan Dodd",
+              "score": "68.7 m"
+            }
+          ]
+        },
+        {
+          "name": "Women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Aliaksandra Danisheuskaya",
+              "score": "54.6 m"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.baselinewaterski.com/news/moomba-delivers-record-scores-breakout-stars-and-riverbank-chaos/",
+      "replayUrl": "https://www.youtube.com/watch?v=-jrL3r-TLzY",
+      "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
+      "imageCredit": "moombamasters.com.au"
+    },
+    {
+      "id": "solo-nautique-masters-2026",
+      "name": "Nautique Masters",
+      "start": "2026-05-22",
+      "place": "Robin Lake, Callaway Gardens, Pine Mountain, Georgia, USA",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "solo",
+      "end": "2026-05-24",
+      "note": "66th edition. Its champions earn 2027 Masters invitations but no series points.",
+      "results": [
+        {
+          "name": "Women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Regina Jaquess",
+              "score": "3 @ 10.75m"
+            },
+            {
+              "place": 3,
+              "name": "Allie Nicholson",
+              "score": "4 @ 11.25m"
+            }
+          ]
+        },
+        {
+          "name": "Men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jake Abelson",
+              "score": "12,820"
+            }
+          ]
+        },
+        {
+          "name": "Women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Erika Lang",
+              "score": "11,430"
+            },
+            {
+              "place": 2,
+              "name": "Anna Hunter",
+              "score": "10,600"
+            }
+          ]
+        },
+        {
+          "name": "Women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Aliaksandra Danisheuskaya",
+              "score": "167 ft"
+            },
+            {
+              "place": 2,
+              "name": "Regina Jaquess",
+              "score": "166 ft"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.usawaterski.org/news/2026/may/26/2026-nautique-masters-recap"
+    },
+    {
+      "id": "solo-fungliss-proam-2026",
+      "name": "Fungliss ProAm",
+      "start": "2026-06-20",
+      "place": "Donmartin, France",
+      "disciplines": [
+        "S"
+      ],
+      "lane": "solo",
+      "end": "2026-06-21",
+      "note": "Has stayed outside the Pro Tour in recent seasons.",
+      "results": [
+        {
+          "name": "Reported winner",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Charlie Ross"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.baselinewaterski.com/news/six-takeaways-from-the-european-leg-of-the-2026-professional-water-ski-season/"
+    },
+    {
+      "id": "solo-pkb-proam-2026",
+      "name": "PKB ProAm",
+      "start": "2026-07-10",
+      "place": "Ivrea, Italy",
+      "disciplines": [
+        "S"
+      ],
+      "lane": "solo",
+      "end": "2026-07-12",
+      "flag": "Which tour, if any, this event counts for was not confirmed.",
+      "results": [
+        {
+          "name": "Open women, slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Beatrice Ianni (ITA)"
+            },
+            {
+              "place": 2,
+              "name": "Alice Bagnoli (ITA)"
+            },
+            {
+              "place": 3,
+              "name": "Katerina Vrabcova (CZE)"
+            }
+          ]
+        },
+        {
+          "name": "Open men, slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Sacha Descuns (FRA)"
+            },
+            {
+              "place": 2,
+              "name": "Matteo Luzzeri (ITA)"
+            },
+            {
+              "place": 3,
+              "name": "Carlo Allais (ITA)"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.iwwfed-ea.net/classic/26/26ITA001/26ITA001.html",
+      "note": "Listed by the IWWF as the PKB slalom cup. Placings were still marked pending homologation."
+    },
+    {
+      "id": "worlds-under-17-world-championships-2026",
+      "name": "Under-17 World Championships",
+      "start": "2026-03-30",
+      "place": "Córdoba, Argentina",
+      "disciplines": [
+        "S",
+        "T",
+        "J",
+        "O"
+      ],
+      "lane": "worlds",
+      "end": "2026-04-05",
+      "results": [
+        {
+          "name": "Girls' slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Alexia Abelson (USA)",
+              "score": "2 @ 11.25m"
+            }
+          ]
+        },
+        {
+          "name": "Girls' trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Alexia Abelson (USA)",
+              "score": "8,220"
+            }
+          ]
+        },
+        {
+          "name": "Girls' overall",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Alexia Abelson (USA)",
+              "score": "2,766.89"
+            }
+          ]
+        },
+        {
+          "name": "Boys' slalom",
+          "entries": [
+            {
+              "place": 3,
+              "name": "Arnold Landon (USA)",
+              "score": "5.5 @ 11.25m"
+            }
+          ]
+        },
+        {
+          "name": "Boys' jump",
+          "entries": [
+            {
+              "place": 3,
+              "name": "Bret Ellis (USA)",
+              "score": "50.8 m"
+            }
+          ]
+        },
+        {
+          "name": "Team classification",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Ukraine",
+              "score": "7,835.27"
+            },
+            {
+              "place": 2,
+              "name": "USA",
+              "score": "7,484.03"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.usawaterski.org/news/2026/april/06/2026-u17-worlds-results-"
+    },
+    {
+      "id": "worlds-over-35-world-championships-2026",
+      "name": "Over-35 World Championships",
+      "start": "2026-07-22",
+      "place": "Predator Bay, Calgary, Canada",
+      "disciplines": [
+        "S",
+        "T",
+        "J",
+        "O"
+      ],
+      "lane": "worlds",
+      "end": "2026-07-26",
+      "note": "Towed by Malibu Boats.",
+      "results": [
+        {
+          "name": "Over 35 men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Brian Kinney (USA)",
+              "score": "5,260"
+            }
+          ]
+        },
+        {
+          "name": "Over 35 men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jason Peckham (USA)",
+              "score": "3 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Over 45 women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jennifer Wood (USA)",
+              "score": "78 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 45 men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jeff Surdej (USA)",
+              "score": "145 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 55 women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Lori Krueger (USA)",
+              "score": "1 @ 11.25m"
+            }
+          ]
+        },
+        {
+          "name": "Over 55 women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jane Greenwood (USA)",
+              "score": "126 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 55 men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Randy Sterba (USA)",
+              "score": "146 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 65 women's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Joy Kelley (USA)",
+              "score": "3,500"
+            }
+          ]
+        },
+        {
+          "name": "Over 65 women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Joy Kelley (USA)",
+              "score": "76 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 65 men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Mark Brandt (USA)",
+              "score": "1.5 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Over 65 men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Mitch Grau (USA)",
+              "score": "115 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 70 women's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Janie Fausold (USA)",
+              "score": "2 @ 12m"
+            }
+          ]
+        },
+        {
+          "name": "Over 70 men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Jack Mills (USA)",
+              "score": "0.5 @ 10.75m"
+            }
+          ]
+        },
+        {
+          "name": "Over 70 men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Durwood Johnson (USA)",
+              "score": "72 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 75 women's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Brenda Cavenaugh (USA)",
+              "score": "31 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 75 men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Thomas White (USA)",
+              "score": "38 ft"
+            }
+          ]
+        },
+        {
+          "name": "Over 80 men's slalom",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Dennis Longo (USA)",
+              "score": "3 @ 14.25m"
+            }
+          ]
+        },
+        {
+          "name": "Over 80 men's trick",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Dennis Longo (USA)",
+              "score": "920"
+            }
+          ]
+        },
+        {
+          "name": "Over 80 men's jump",
+          "entries": [
+            {
+              "place": 1,
+              "name": "Dennis Longo (USA)",
+              "score": "41 ft"
+            }
+          ]
+        }
+      ],
+      "resultsUrl": "https://www.usawaterski.org/news/2026/july/29/2026-35-worlds-results"
+    },
+    {
+      "id": "worlds-under-21-world-championships-2027",
+      "name": "Under-21 World Championships",
+      "start": "2027-01-10",
+      "place": "Peru",
+      "disciplines": [
+        "S",
+        "T",
+        "J",
+        "O"
+      ],
+      "lane": "worlds",
+      "end": "2027-01-16",
+      "note": "City to be confirmed."
+    },
+    {
+      "id": "worlds-world-waterski-championships-2027",
+      "name": "World Waterski Championships",
+      "start": "2027-02-16",
+      "place": "Max Kirwan Ski Park, Mulwala, New South Wales, Australia",
+      "disciplines": [
+        "S",
+        "T",
+        "J"
+      ],
+      "lane": "worlds",
+      "end": "2027-02-21",
+      "note": "40th IWWF World Waterski Championships. Slalom and trick finals Feb. 20, jump finals and men's trick Feb. 21. Towed by Malibu Boats.",
+      "url": "https://iwwf.sport/world-title-events/openworlds2027/"
     }
-   ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/jake-abelson-sets-pending-world-record-to-capture-royal-nautique-pro/",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-louisiana-night-jam-2026",
-   "name": "Louisiana Night Jam",
-   "start": "2026-06-06",
-   "place": "Zachary, Louisiana, USA",
-   "disciplines": [
-    "J"
-   ],
-   "lane": "pro",
-   "note": "Jump only, under lights.",
-   "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
-   "scoresUrl": "https://scores.waterskiresults.com/default?YR=26&RG=&sanctionId=26C040",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-monaco-waterski-cup-2026",
-   "name": "Monaco Waterski Cup",
-   "start": "2026-06-12",
-   "place": "Roquebrune-sur-Argens, France",
-   "disciplines": [
-    "S",
-    "T"
-   ],
-   "lane": "pro",
-   "end": "2026-06-14",
-   "results": [
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jaimee Bull",
-       "score": "3.00"
-      },
-      {
-       "place": 2,
-       "name": "Trinidad Espinal",
-       "score": "3.00"
-      },
-      {
-       "place": 3,
-       "name": "Allie Nicholson",
-       "score": "3.00"
-      }
-     ]
-    },
-    {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Charlie Ross",
-       "score": "1.00"
-      },
-      {
-       "place": 2,
-       "name": "Sacha Descuns",
-       "score": "5.00"
-      },
-      {
-       "place": 3,
-       "name": "Freddie Winter",
-       "score": "3.50"
-      }
-     ]
-    },
-    {
-     "name": "Women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Neilly Ross",
-       "score": "10,640"
-      },
-      {
-       "place": 2,
-       "name": "Giannina Bonnemann Mechler",
-       "score": "9,520"
-      },
-      {
-       "place": 3,
-       "name": "Kennedy Hansen",
-       "score": "9,610"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.iwwfed-ea.org/classic/26/26MON001/26MON001.pdf",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-recetto-proam-2026",
-   "name": "Recetto ProAm",
-   "start": "2026-07-03",
-   "place": "Recetto, Italy",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "pro",
-   "end": "2026-07-05",
-   "note": "First edition, at the site of the 2025 World Championships.",
-   "results": [
-    {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Freddie Winter"
-      }
-     ]
-    },
-    {
-     "name": "Men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Patricio Font"
-      }
-     ]
-    },
-    {
-     "name": "Men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Luca Rauchenwald"
-      },
-      {
-       "place": 2,
-       "name": "Ryan Dodd"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/six-takeaways-from-the-european-leg-of-the-2026-professional-water-ski-season/",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-poti-pro-am-2026",
-   "name": "Poti Pro Am",
-   "start": "2026-07-20",
-   "place": "Poti, Georgia",
-   "disciplines": [
-    "S",
-    "J"
-   ],
-   "lane": "pro",
-   "end": "2026-07-21",
-   "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-lake-38-proam-2026",
-   "name": "Lake 38 ProAm",
-   "start": "2026-09-11",
-   "place": "Tallahassee, Florida, USA",
-   "disciplines": [
-    "S"
-   ],
-   "lane": "pro",
-   "end": "2026-09-13",
-   "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
-   "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S022",
-   "imageCredit": "waterskiprotour.com",
-   "resultsUrl": "https://www.iwwfed-ea.net/classic/26USA078/",
-   "replayUrl": "https://www.youtube.com/watch?v=Dd8udX8VCng"
-  },
-  {
-   "id": "pro-mastercraft-pro-2026",
-   "name": "MasterCraft Pro",
-   "start": "2026-09-18",
-   "place": "Champions Lake, Auburndale, Florida, USA",
-   "disciplines": [
-    "S",
-    "J"
-   ],
-   "lane": "pro",
-   "end": "2026-09-20",
-   "note": "New venue for 2026.",
-   "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S031",
-   "results": [
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess",
-       "score": "1 @ 10.25m"
-      },
-      {
-       "place": 2,
-       "name": "Jaimee Bull",
-       "score": "1.5 @ 10.25m"
-      },
-      {
-       "place": 3,
-       "name": "Allie Nicholson",
-       "score": "2 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Charlie Ross",
-       "score": "3 @ 10.25m"
-      },
-      {
-       "place": 2,
-       "name": "Nate Smith",
-       "score": "2 @ 10.25m"
-      },
-      {
-       "place": 3,
-       "name": "Rob Hazelwood",
-       "score": "1 @ 10.25m"
-      }
-     ]
-    },
-    {
-     "name": "Women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Anna Hunter",
-       "score": "10,540"
-      },
-      {
-       "place": 2,
-       "name": "Giannina Bonnemann Mechler",
-       "score": "10,470"
-      },
-      {
-       "place": 3,
-       "name": "Hannah Stopnicki",
-       "score": "8,290"
-      }
-     ]
-    },
-    {
-     "name": "Men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Joel Poland",
-       "score": "12,510"
-      },
-      {
-       "place": 2,
-       "name": "Patricio Font",
-       "score": "12,240"
-      },
-      {
-       "place": 3,
-       "name": "Edoardo Marenzi",
-       "score": "10,970"
-      }
-     ]
-    },
-    {
-     "name": "Women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Aliaksandra Danisheuskaya",
-       "score": "175 ft"
-      },
-      {
-       "place": 2,
-       "name": "Giannina Bonnemann Mechler",
-       "score": "173 ft"
-      },
-      {
-       "place": 3,
-       "name": "Lauren Morgan",
-       "score": "167 ft"
-      }
-     ]
-    },
-    {
-     "name": "Men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Joel Poland",
-       "score": "226 ft"
-      },
-      {
-       "place": 2,
-       "name": "Edoardo Marenzi",
-       "score": "212 ft"
-      },
-      {
-       "place": 3,
-       "name": "Igor Morozov",
-       "score": "209 ft"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.usawaterski.org/news/2026/september/21/2026-mastercraft-pro",
-   "replayUrl": "https://youtube.com/playlist?list=PLM3-mBhqIdiXOJjnZ8mmxSjd4O16R5qDB",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "pro-travers-grand-prix-2026",
-   "name": "Travers Grand Prix",
-   "start": "2026-09-25",
-   "place": "Sunset Lakes, Groveland, Florida, USA",
-   "disciplines": [
-    "S"
-   ],
-   "lane": "pro",
-   "end": "2026-09-27",
-   "note": "The tour lists this as its 11th stop of 2026.",
-   "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S015",
-   "imageCredit": "waterskiprotour.com",
-   "results": [
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess (USA)",
-       "score": "2 @ 10.25m"
-      },
-      {
-       "place": 2,
-       "name": "Jaimee Bull (CAN)",
-       "score": "2 @ 10.25m"
-      },
-      {
-       "place": 3,
-       "name": "Elizabeth Montavon (USA)",
-       "score": "4 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Dane Mechler (USA)",
-       "score": "0.5 @ 9.75m"
-      },
-      {
-       "place": 2,
-       "name": "William Asher (GBR)",
-       "score": "5 @ 10.25m"
-      },
-      {
-       "place": 3,
-       "name": "Jonathan Travers (USA)",
-       "score": "5 @ 10.25m"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.iwwfed-ea.net/classic/27USAS015/"
-  },
-  {
-   "id": "pro-miami-pro-2026",
-   "name": "Miami Pro",
-   "start": "2026-10-03",
-   "place": "Miami, Florida, USA",
-   "disciplines": [
-    "S"
-   ],
-   "lane": "pro",
-   "end": "2026-10-04",
-   "note": "Slalom only.",
-   "flag": "It was a Pro Tour stop in 2024. Its 2026 tour status was not confirmed.",
-   "imageCredit": "waterskiprotour.com"
-  },
-  {
-   "id": "wws-wws-granite-cup-2026",
-   "name": "WWS Granite Cup",
-   "start": "2026-07-10",
-   "place": "Wolfeboro, New Hampshire, USA",
-   "disciplines": [
-    "O"
-   ],
-   "lane": "wws",
-   "end": "2026-07-11"
-  },
-  {
-   "id": "wws-wws-canada-cup-2026",
-   "name": "WWS Canada Cup",
-   "start": "2026-07-17",
-   "place": "Saint-Donat, Canada",
-   "disciplines": [
-    "O"
-   ],
-   "lane": "wws",
-   "end": "2026-07-18"
-  },
-  {
-   "id": "wws-wws-austria-cup-2026",
-   "name": "WWS Austria Cup",
-   "start": "2026-08-08",
-   "place": "Salmsee, Austria",
-   "disciplines": [
-    "O"
-   ],
-   "lane": "wws",
-   "end": "2026-08-09",
-   "note": "Also called the Salmsee Cup.",
-   "results": [
-    {
-     "name": "Pro women, overall",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Kennedy Hansen (USA)",
-       "score": "2887.82 pts"
-      },
-      {
-       "place": 2,
-       "name": "Giannina Bonnemann Mechler (GER)",
-       "score": "2877.55 pts"
-      },
-      {
-       "place": 3,
-       "name": "Brooke Boskus (USA)",
-       "score": "1675.23 pts"
-      }
-     ]
-    },
-    {
-     "name": "Pro men, overall",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Joel Poland (GBR)",
-       "score": "3000.00 pts"
-      },
-      {
-       "place": 2,
-       "name": "Edoardo Marenzi (ITA)",
-       "score": "2746.03 pts"
-      },
-      {
-       "place": 3,
-       "name": "Dorien Llewellyn (CAN)",
-       "score": "2644.52 pts"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.iwwfed-ea.net/classic/26AUT006/"
-  },
-  {
-   "id": "wws-wws-groveland-cup-2026",
-   "name": "WWS Groveland Cup",
-   "start": "2026-09-11",
-   "place": "Sunset Lakes, Groveland, Florida, USA",
-   "disciplines": [
-    "O"
-   ],
-   "lane": "wws",
-   "end": "2026-09-12",
-   "note": "USA Water Ski lists this weekend as Sept. 11 to 13."
-  },
-  {
-   "id": "naut-botaski-proam-2026",
-   "name": "Botaski ProAm",
-   "start": "2026-06-25",
-   "place": "Botaski, Seseña, Spain",
-   "disciplines": [
-    "S",
-    "T"
-   ],
-   "lane": "naut",
-   "end": "2026-06-28",
-   "note": "Opening stop of the first World Series. Not part of the Pro Tour.",
-   "results": [
-    {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Charlie Ross",
-       "score": "0.5 @ 9.75m"
-      }
-     ]
-    },
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess",
-       "score": "2.5 @ 10.25m (course record)"
-      },
-      {
-       "place": 2,
-       "name": "Jaimee Bull"
-      }
-     ]
-    },
-    {
-     "name": "Men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jake Abelson",
-       "score": "13,100"
-      },
-      {
-       "place": 2,
-       "name": "Patricio Font",
-       "score": "12,840"
-      },
-      {
-       "place": 3,
-       "name": "Joel Poland",
-       "score": "12,160"
-      }
-     ]
-    },
-    {
-     "name": "Women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Erika Lang",
-       "score": "11,430"
-      },
-      {
-       "place": 2,
-       "name": "Neilly Ross"
-      }
-     ]
-    },
-    {
-     "name": "Men's jump",
-     "entries": [
-      {
-       "place": 2,
-       "name": "Tim Wild"
-      }
-     ]
-    },
-    {
-     "name": "Women's jump",
-     "entries": [
-      {
-       "place": 2,
-       "name": "Maise Jacobsen"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/record-breaking-performances-headline-inaugural-nautique-world-series-stop-at-botaski/"
-  },
-  {
-   "id": "naut-rocky-mountain-proam-2026",
-   "name": "Rocky Mountain ProAm",
-   "start": "2026-07-30",
-   "place": "Predator Bay, Calgary, Canada",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "naut",
-   "end": "2026-08-02",
-   "note": "First edition. Includes pro, junior and senior divisions.",
-   "results": [
-    {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Joel Poland",
-       "score": "6 @ 10.75m (runoff)"
-      },
-      {
-       "place": 2,
-       "name": "Charlie Ross",
-       "score": "3 @ 10.25m"
-      }
-     ]
-    },
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess",
-       "score": "1.5 @ 10.25m"
-      }
-     ]
-    },
-    {
-     "name": "Men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jake Abelson",
-       "score": "12,820"
-      },
-      {
-       "place": 2,
-       "name": "Matias Gonzalez",
-       "score": "12,790"
-      }
-     ]
-    },
-    {
-     "name": "Women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Anna Hunter",
-       "score": "10,500"
-      },
-      {
-       "place": 2,
-       "name": "Neilly Ross",
-       "score": "10,460"
-      }
-     ]
-    },
-    {
-     "name": "Men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Joel Poland",
-       "score": "64.4 m"
-      },
-      {
-       "place": 2,
-       "name": "Luca Rauchenwald",
-       "score": "63.3 m"
-      }
-     ]
-    },
-    {
-     "name": "Women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Aliaksandra Danisheuskaya"
-      },
-      {
-       "place": 3,
-       "name": "Regina Jaquess"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/joel-poland-makes-history-at-a-rocky-mountain-proam-full-of-drama/"
-  },
-  {
-   "id": "naut-california-proam-2026",
-   "name": "California ProAm",
-   "start": "2026-08-28",
-   "place": "Shortline Lake, Elk Grove, California, USA",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "naut",
-   "end": "2026-08-30",
-   "note": "Third stop of the World Series.",
-   "results": [
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess"
-      },
-      {
-       "place": 2,
-       "name": "Cristhiana De Osma",
-       "score": "4 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Erika Lang",
-       "score": "10,980"
-      },
-      {
-       "place": 2,
-       "name": "Neilly Ross",
-       "score": "10,610"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://nautique.com/press/24th-annual-california-proam-delivers-historic-performances"
-  },
-  {
-   "id": "naut-moomba-masters-2027",
-   "name": "Moomba Masters",
-   "start": "2027-03-04",
-   "place": "Yarra River, Melbourne, Australia",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "naut",
-   "end": "2027-03-08",
-   "note": "Fourth stop of the World Series, inside the Moomba Festival. Champions earn Masters invitations.",
-   "url": "https://www.moombamasters.com.au/",
-   "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
-   "imageCredit": "moombamasters.com.au"
-  },
-  {
-   "id": "naut-masters-lcq-2027",
-   "name": "Masters LCQ",
-   "start": "2027-05-14",
-   "place": "Venue to be announced",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "naut",
-   "end": "2027-05-16",
-   "note": "Last chance qualifier for Masters invitations. It does not count for World Series points."
-  },
-  {
-   "id": "naut-nautique-masters-2027",
-   "name": "Nautique Masters",
-   "start": "2027-05-28",
-   "place": "Callaway Gardens, Pine Mountain, Georgia, USA",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "naut",
-   "end": "2027-05-30",
-   "note": "Final stop and the culminating points event of the World Series. $18,000 purse in each discipline."
-  },
-  {
-   "id": "solo-moomba-masters-2026",
-   "name": "Moomba Masters",
-   "start": "2026-03-05",
-   "place": "Yarra River, Melbourne, Australia",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "solo",
-   "end": "2026-03-09",
-   "note": "65th edition. Its champions earn 2027 Masters invitations but no series points.",
-   "url": "https://www.moombamasters.com.au/",
-   "results": [
-    {
-     "name": "Men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Charlie Ross",
-       "score": "3.5 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess",
-       "score": "1 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Matias Gonzalez",
-       "score": "12,860 (course record)"
-      }
-     ]
-    },
-    {
-     "name": "Women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Erika Lang",
-       "score": "10,930 (course record)"
-      },
-      {
-       "place": 2,
-       "name": "Neilly Ross",
-       "score": "9,630"
-      }
-     ]
-    },
-    {
-     "name": "Men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Ryan Dodd",
-       "score": "68.7 m"
-      }
-     ]
-    },
-    {
-     "name": "Women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Aliaksandra Danisheuskaya",
-       "score": "54.6 m"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/moomba-delivers-record-scores-breakout-stars-and-riverbank-chaos/",
-   "replayUrl": "https://www.youtube.com/watch?v=-jrL3r-TLzY",
-   "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
-   "imageCredit": "moombamasters.com.au"
-  },
-  {
-   "id": "solo-nautique-masters-2026",
-   "name": "Nautique Masters",
-   "start": "2026-05-22",
-   "place": "Robin Lake, Callaway Gardens, Pine Mountain, Georgia, USA",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "solo",
-   "end": "2026-05-24",
-   "note": "66th edition. Its champions earn 2027 Masters invitations but no series points.",
-   "results": [
-    {
-     "name": "Women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Regina Jaquess",
-       "score": "3 @ 10.75m"
-      },
-      {
-       "place": 3,
-       "name": "Allie Nicholson",
-       "score": "4 @ 11.25m"
-      }
-     ]
-    },
-    {
-     "name": "Men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jake Abelson",
-       "score": "12,820"
-      }
-     ]
-    },
-    {
-     "name": "Women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Erika Lang",
-       "score": "11,430"
-      },
-      {
-       "place": 2,
-       "name": "Anna Hunter",
-       "score": "10,600"
-      }
-     ]
-    },
-    {
-     "name": "Women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Aliaksandra Danisheuskaya",
-       "score": "167 ft"
-      },
-      {
-       "place": 2,
-       "name": "Regina Jaquess",
-       "score": "166 ft"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.usawaterski.org/news/2026/may/26/2026-nautique-masters-recap"
-  },
-  {
-   "id": "solo-fungliss-proam-2026",
-   "name": "Fungliss ProAm",
-   "start": "2026-06-20",
-   "place": "Donmartin, France",
-   "disciplines": [
-    "S"
-   ],
-   "lane": "solo",
-   "end": "2026-06-21",
-   "note": "Has stayed outside the Pro Tour in recent seasons.",
-   "results": [
-    {
-     "name": "Reported winner",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Charlie Ross"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/six-takeaways-from-the-european-leg-of-the-2026-professional-water-ski-season/"
-  },
-  {
-   "id": "solo-pkb-proam-2026",
-   "name": "PKB ProAm",
-   "start": "2026-07-10",
-   "place": "Ivrea, Italy",
-   "disciplines": [
-    "S"
-   ],
-   "lane": "solo",
-   "end": "2026-07-12",
-   "flag": "Which tour, if any, this event counts for was not confirmed."
-  },
-  {
-   "id": "worlds-under-17-world-championships-2026",
-   "name": "Under-17 World Championships",
-   "start": "2026-03-30",
-   "place": "Córdoba, Argentina",
-   "disciplines": [
-    "S",
-    "T",
-    "J",
-    "O"
-   ],
-   "lane": "worlds",
-   "end": "2026-04-05",
-   "results": [
-    {
-     "name": "Girls' slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Alexia Abelson (USA)",
-       "score": "2 @ 11.25m"
-      }
-     ]
-    },
-    {
-     "name": "Girls' trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Alexia Abelson (USA)",
-       "score": "8,220"
-      }
-     ]
-    },
-    {
-     "name": "Girls' overall",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Alexia Abelson (USA)",
-       "score": "2,766.89"
-      }
-     ]
-    },
-    {
-     "name": "Boys' slalom",
-     "entries": [
-      {
-       "place": 3,
-       "name": "Arnold Landon (USA)",
-       "score": "5.5 @ 11.25m"
-      }
-     ]
-    },
-    {
-     "name": "Boys' jump",
-     "entries": [
-      {
-       "place": 3,
-       "name": "Bret Ellis (USA)",
-       "score": "50.8 m"
-      }
-     ]
-    },
-    {
-     "name": "Team classification",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Ukraine",
-       "score": "7,835.27"
-      },
-      {
-       "place": 2,
-       "name": "USA",
-       "score": "7,484.03"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.usawaterski.org/news/2026/april/06/2026-u17-worlds-results-"
-  },
-  {
-   "id": "worlds-over-35-world-championships-2026",
-   "name": "Over-35 World Championships",
-   "start": "2026-07-22",
-   "place": "Predator Bay, Calgary, Canada",
-   "disciplines": [
-    "S",
-    "T",
-    "J",
-    "O"
-   ],
-   "lane": "worlds",
-   "end": "2026-07-26",
-   "note": "Towed by Malibu Boats.",
-   "results": [
-    {
-     "name": "Over 35 men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Brian Kinney (USA)",
-       "score": "5,260"
-      }
-     ]
-    },
-    {
-     "name": "Over 35 men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jason Peckham (USA)",
-       "score": "3 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Over 45 women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jennifer Wood (USA)",
-       "score": "78 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 45 men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jeff Surdej (USA)",
-       "score": "145 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 55 women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Lori Krueger (USA)",
-       "score": "1 @ 11.25m"
-      }
-     ]
-    },
-    {
-     "name": "Over 55 women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jane Greenwood (USA)",
-       "score": "126 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 55 men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Randy Sterba (USA)",
-       "score": "146 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 65 women's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Joy Kelley (USA)",
-       "score": "3,500"
-      }
-     ]
-    },
-    {
-     "name": "Over 65 women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Joy Kelley (USA)",
-       "score": "76 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 65 men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Mark Brandt (USA)",
-       "score": "1.5 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Over 65 men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Mitch Grau (USA)",
-       "score": "115 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 70 women's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Janie Fausold (USA)",
-       "score": "2 @ 12m"
-      }
-     ]
-    },
-    {
-     "name": "Over 70 men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Jack Mills (USA)",
-       "score": "0.5 @ 10.75m"
-      }
-     ]
-    },
-    {
-     "name": "Over 70 men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Durwood Johnson (USA)",
-       "score": "72 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 75 women's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Brenda Cavenaugh (USA)",
-       "score": "31 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 75 men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Thomas White (USA)",
-       "score": "38 ft"
-      }
-     ]
-    },
-    {
-     "name": "Over 80 men's slalom",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Dennis Longo (USA)",
-       "score": "3 @ 14.25m"
-      }
-     ]
-    },
-    {
-     "name": "Over 80 men's trick",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Dennis Longo (USA)",
-       "score": "920"
-      }
-     ]
-    },
-    {
-     "name": "Over 80 men's jump",
-     "entries": [
-      {
-       "place": 1,
-       "name": "Dennis Longo (USA)",
-       "score": "41 ft"
-      }
-     ]
-    }
-   ],
-   "resultsUrl": "https://www.usawaterski.org/news/2026/july/29/2026-35-worlds-results"
-  },
-  {
-   "id": "worlds-under-21-world-championships-2027",
-   "name": "Under-21 World Championships",
-   "start": "2027-01-10",
-   "place": "Peru",
-   "disciplines": [
-    "S",
-    "T",
-    "J",
-    "O"
-   ],
-   "lane": "worlds",
-   "end": "2027-01-16",
-   "note": "City to be confirmed."
-  },
-  {
-   "id": "worlds-world-waterski-championships-2027",
-   "name": "World Waterski Championships",
-   "start": "2027-02-16",
-   "place": "Max Kirwan Ski Park, Mulwala, New South Wales, Australia",
-   "disciplines": [
-    "S",
-    "T",
-    "J"
-   ],
-   "lane": "worlds",
-   "end": "2027-02-21",
-   "note": "40th IWWF World Waterski Championships. Slalom and trick finals Feb. 20, jump finals and men's trick Feb. 21. Towed by Malibu Boats.",
-   "url": "https://iwwf.sport/world-title-events/openworlds2027/"
-  }
- ]
+  ]
 }
