@@ -53,7 +53,8 @@
     "T"
    ],
    "lane": "pro",
-   "note": "First Pro Tour stop of 2026. Trick only."
+   "note": "First Pro Tour stop of 2026. Trick only.",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-swiss-pro-slalom-2026",
@@ -107,7 +108,8 @@
      ]
     }
    ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/ross-and-jaquess-take-titles-at-2026-swiss-pro-slalom/"
+   "resultsUrl": "https://www.baselinewaterski.com/news/ross-and-jaquess-take-titles-at-2026-swiss-pro-slalom/",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-royal-nautique-pro-2026",
@@ -156,7 +158,8 @@
      ]
     }
    ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/jake-abelson-sets-pending-world-record-to-capture-royal-nautique-pro/"
+   "resultsUrl": "https://www.baselinewaterski.com/news/jake-abelson-sets-pending-world-record-to-capture-royal-nautique-pro/",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-louisiana-night-jam-2026",
@@ -169,7 +172,8 @@
    "lane": "pro",
    "note": "Jump only, under lights.",
    "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
-   "scoresUrl": "https://scores.waterskiresults.com/default?YR=26&RG=&sanctionId=26C040"
+   "scoresUrl": "https://scores.waterskiresults.com/default?YR=26&RG=&sanctionId=26C040",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-monaco-waterski-cup-2026",
@@ -244,7 +248,8 @@
      ]
     }
    ],
-   "resultsUrl": "https://www.iwwfed-ea.org/classic/26/26MON001/26MON001.pdf"
+   "resultsUrl": "https://www.iwwfed-ea.org/classic/26/26MON001/26MON001.pdf",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-recetto-proam-2026",
@@ -292,7 +297,8 @@
      ]
     }
    ],
-   "resultsUrl": "https://www.baselinewaterski.com/news/six-takeaways-from-the-european-leg-of-the-2026-professional-water-ski-season/"
+   "resultsUrl": "https://www.baselinewaterski.com/news/six-takeaways-from-the-european-leg-of-the-2026-professional-water-ski-season/",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-poti-pro-am-2026",
@@ -305,7 +311,8 @@
    ],
    "lane": "pro",
    "end": "2026-07-21",
-   "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed."
+   "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-lake-38-proam-2026",
@@ -318,7 +325,8 @@
    "lane": "pro",
    "end": "2026-09-13",
    "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
-   "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S022"
+   "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S022",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-mastercraft-pro-2026",
@@ -456,7 +464,8 @@
     }
    ],
    "resultsUrl": "https://www.usawaterski.org/news/2026/september/21/2026-mastercraft-pro",
-   "replayUrl": "https://youtube.com/playlist?list=PLM3-mBhqIdiXOJjnZ8mmxSjd4O16R5qDB"
+   "replayUrl": "https://youtube.com/playlist?list=PLM3-mBhqIdiXOJjnZ8mmxSjd4O16R5qDB",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-travers-grand-prix-2026",
@@ -469,7 +478,8 @@
    "lane": "pro",
    "end": "2026-09-27",
    "note": "The tour lists this as its 11th stop of 2026.",
-   "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S015"
+   "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S015",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "pro-miami-pro-2026",
@@ -482,7 +492,8 @@
    "lane": "pro",
    "end": "2026-10-04",
    "note": "Slalom only.",
-   "flag": "It was a Pro Tour stop in 2024. Its 2026 tour status was not confirmed."
+   "flag": "It was a Pro Tour stop in 2024. Its 2026 tour status was not confirmed.",
+   "imageCredit": "waterskiprotour.com"
   },
   {
    "id": "wws-wws-granite-cup-2026",
@@ -493,7 +504,8 @@
     "O"
    ],
    "lane": "wws",
-   "end": "2026-07-11"
+   "end": "2026-07-11",
+   "imageCredit": "worldwaterskiers.com"
   },
   {
    "id": "wws-wws-canada-cup-2026",
@@ -504,7 +516,8 @@
     "O"
    ],
    "lane": "wws",
-   "end": "2026-07-18"
+   "end": "2026-07-18",
+   "imageCredit": "worldwaterskiers.com"
   },
   {
    "id": "wws-wws-austria-cup-2026",
@@ -516,7 +529,8 @@
    ],
    "lane": "wws",
    "end": "2026-08-09",
-   "note": "Also called the Salmsee Cup."
+   "note": "Also called the Salmsee Cup.",
+   "imageCredit": "worldwaterskiers.com"
   },
   {
    "id": "wws-wws-groveland-cup-2026",
@@ -528,7 +542,8 @@
    ],
    "lane": "wws",
    "end": "2026-09-12",
-   "note": "USA Water Ski lists this weekend as Sept. 11 to 13."
+   "note": "USA Water Ski lists this weekend as Sept. 11 to 13.",
+   "imageCredit": "worldwaterskiers.com"
   },
   {
    "id": "naut-botaski-proam-2026",
@@ -781,7 +796,9 @@
    "lane": "naut",
    "end": "2027-03-08",
    "note": "Fourth stop of the World Series, inside the Moomba Festival. Champions earn Masters invitations.",
-   "url": "https://www.moombamasters.com.au/"
+   "url": "https://www.moombamasters.com.au/",
+   "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
+   "imageCredit": "moombamasters.com.au"
   },
   {
    "id": "naut-masters-lcq-2027",
@@ -893,7 +910,9 @@
     }
    ],
    "resultsUrl": "https://www.baselinewaterski.com/news/moomba-delivers-record-scores-breakout-stars-and-riverbank-chaos/",
-   "replayUrl": "https://www.youtube.com/watch?v=-jrL3r-TLzY"
+   "replayUrl": "https://www.youtube.com/watch?v=-jrL3r-TLzY",
+   "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
+   "imageCredit": "moombamasters.com.au"
   },
   {
    "id": "solo-nautique-masters-2026",
