@@ -75,7 +75,8 @@
             }
           ]
         }
-      ]
+      ],
+      "imageUrl": "https://static.wixstatic.com/media/006129_97970d9d431b43ec9d03e596f7e6ea89~mv2.jpg/v1/fill/w_1400,h_930,al_c,q_85/Erika%20Lang%20-%20Swiss%20Pro%20Tricks.jpg"
     },
     {
       "id": "pro-swiss-pro-slalom-2026",
@@ -130,7 +131,8 @@
         }
       ],
       "resultsUrl": "https://www.baselinewaterski.com/news/ross-and-jaquess-take-titles-at-2026-swiss-pro-slalom/",
-      "imageCredit": "waterskiprotour.com"
+      "imageCredit": "waterskiprotour.com",
+      "imageUrl": "https://static.wixstatic.com/media/006129_7e78743614bd4c16bb46576d546da9a4~mv2.png/v1/fill/w_1400,h_932,al_c,q_85/Regina%20Jaquess%20Swiss%20Pro%20Slalom.jpg"
     },
     {
       "id": "pro-royal-nautique-pro-2026",
@@ -180,7 +182,8 @@
         }
       ],
       "resultsUrl": "https://www.baselinewaterski.com/news/jake-abelson-sets-pending-world-record-to-capture-royal-nautique-pro/",
-      "imageCredit": "waterskiprotour.com"
+      "imageCredit": "waterskiprotour.com",
+      "imageUrl": "https://static.wixstatic.com/media/006129_28c95e257b594c969380066228ef31ff~mv2.jpeg/v1/fill/w_1400,h_1050,al_c,q_85/Royal%20Nautique%20Pro.jpeg"
     },
     {
       "id": "pro-louisiana-night-jam-2026",
@@ -194,7 +197,8 @@
       "note": "Jump only, under lights.",
       "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
       "scoresUrl": "https://scores.waterskiresults.com/default?YR=26&RG=&sanctionId=26C040",
-      "imageCredit": "waterskiprotour.com"
+      "imageCredit": "@matthewleach.photography, via Baseline",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2025/08/SnapInsta.to_520535367_17845130178532078_1826697838548486296_n-1024x1024.jpg"
     },
     {
       "id": "pro-monaco-waterski-cup-2026",
@@ -270,7 +274,8 @@
         }
       ],
       "resultsUrl": "https://www.iwwfed-ea.org/classic/26/26MON001/26MON001.pdf",
-      "imageCredit": "waterskiprotour.com"
+      "imageCredit": "waterskiprotour.com",
+      "imageUrl": "https://static.wixstatic.com/media/006129_323beb2b780046ec9f11017ef8194410~mv2.jpg/v1/fill/w_1400,h_933,al_c,q_85/Monaco%20Waterski%20Cup.jpg"
     },
     {
       "id": "pro-recetto-proam-2026",
@@ -319,7 +324,8 @@
         }
       ],
       "resultsUrl": "https://www.baselinewaterski.com/news/six-takeaways-from-the-european-leg-of-the-2026-professional-water-ski-season/",
-      "imageCredit": "waterskiprotour.com"
+      "imageCredit": "Baseline",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2024/10/Recetto-Venue-1024x683-1.jpg"
     },
     {
       "id": "pro-poti-pro-am-2026",
@@ -334,7 +340,7 @@
       "lane": "pro",
       "end": "2026-07-21",
       "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
-      "imageCredit": "waterskiprotour.com",
+      "imageCredit": "TWBC, via Baseline",
       "results": [
         {
           "name": "Pro women, slalom",
@@ -440,7 +446,8 @@
         }
       ],
       "resultsUrl": "https://www.iwwfed-ea.net/classic/26/26GEO001/26GEO001.html",
-      "note": "Placings come from the IWWF ranking list, which was still marked pending homologation."
+      "note": "Placings come from the IWWF ranking list, which was still marked pending homologation.",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2025/09/dmsoCoiiw0-HD.jpg"
     },
     {
       "id": "pro-lake-38-proam-2026",
@@ -456,7 +463,8 @@
       "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S022",
       "imageCredit": "waterskiprotour.com",
       "resultsUrl": "https://www.iwwfed-ea.net/classic/26USA078/",
-      "replayUrl": "https://www.youtube.com/watch?v=Dd8udX8VCng"
+      "replayUrl": "https://www.youtube.com/watch?v=Dd8udX8VCng",
+      "imageUrl": "https://static.wixstatic.com/media/006129_7f12b1034e6a40069a3807adf0c78fdc~mv2.png/v1/fill/w_1400,h_932,al_c,q_85/Regina%20Jaquess%20-%20Lake%2038.jpg"
     },
     {
       "id": "pro-mastercraft-pro-2026",
@@ -595,7 +603,8 @@
       ],
       "resultsUrl": "https://www.usawaterski.org/news/2026/september/21/2026-mastercraft-pro",
       "replayUrl": "https://youtube.com/playlist?list=PLM3-mBhqIdiXOJjnZ8mmxSjd4O16R5qDB",
-      "imageCredit": "waterskiprotour.com"
+      "imageCredit": "waterskiprotour.com",
+      "imageUrl": "https://static.wixstatic.com/media/006129_b548275ed9d54be69c0adcc52b1b9ad5~mv2.jpeg/v1/fill/w_1200,h_900,al_c,q_85/MastercaftPro.jpeg"
     },
     {
       "id": "pro-travers-grand-prix-2026",
@@ -652,7 +661,8 @@
           ]
         }
       ],
-      "resultsUrl": "https://www.iwwfed-ea.net/classic/27USAS015/"
+      "resultsUrl": "https://www.iwwfed-ea.net/classic/27USAS015/",
+      "imageUrl": "https://static.wixstatic.com/media/006129_9afd4f5650664d7d869a34d00cbcfcf9~mv2.jpg/v1/fit/w_1600,h_851,al_c/006129_9afd4f5650664d7d869a34d00cbcfcf9~mv2.jpg"
     },
     {
       "id": "pro-miami-pro-2026",
@@ -666,7 +676,8 @@
       "end": "2026-10-04",
       "note": "Slalom only.",
       "flag": "It was a Pro Tour stop in 2024. Its 2026 tour status was not confirmed.",
-      "imageCredit": "waterskiprotour.com"
+      "imageCredit": "Robert Hazelwood, via Baseline (2024 Miami Pro)",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2024/11/download.jpeg"
     },
     {
       "id": "wws-wws-granite-cup-2026",
@@ -677,7 +688,9 @@
         "O"
       ],
       "lane": "wws",
-      "end": "2026-07-11"
+      "end": "2026-07-11",
+      "imageUrl": "https://clubs.worldwaterskiers.com/wp-content/uploads/2026/01/JH48600-copy-2-scaled-aspect-ratio-16-9-2000x1125.jpg",
+      "imageCredit": "World Water Skiers"
     },
     {
       "id": "wws-wws-canada-cup-2026",
@@ -688,7 +701,9 @@
         "O"
       ],
       "lane": "wws",
-      "end": "2026-07-18"
+      "end": "2026-07-18",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2025/08/SnapInsta.to_517357069_18509088658000702_557296598843444541_n-768x1024.jpg",
+      "imageCredit": "@lorth.jpeg, via Baseline (2025 Canada Cup)"
     },
     {
       "id": "wws-wws-austria-cup-2026",
@@ -743,7 +758,9 @@
           ]
         }
       ],
-      "resultsUrl": "https://www.iwwfed-ea.net/classic/26AUT006/"
+      "resultsUrl": "https://www.iwwfed-ea.net/classic/26AUT006/",
+      "imageUrl": "https://clubs.worldwaterskiers.com/wp-content/uploads/2025/08/JH49569-1-scaled-aspect-ratio-16-9-2000x1125.jpg",
+      "imageCredit": "World Water Skiers"
     },
     {
       "id": "wws-wws-groveland-cup-2026",
@@ -755,7 +772,9 @@
       ],
       "lane": "wws",
       "end": "2026-09-12",
-      "note": "USA Water Ski lists this weekend as Sept. 11 to 13."
+      "note": "USA Water Ski lists this weekend as Sept. 11 to 13.",
+      "imageUrl": "https://i0.wp.com/clubs.wsconnect.io/wp-content/uploads/2025/01/JH99585-copy-scaled-1-2000x1334.jpg?w=1400",
+      "imageCredit": "World Water Skiers (2025 Travers Cup)"
     },
     {
       "id": "naut-botaski-proam-2026",
@@ -847,7 +866,9 @@
           ]
         }
       ],
-      "resultsUrl": "https://www.baselinewaterski.com/news/record-breaking-performances-headline-inaugural-nautique-world-series-stop-at-botaski/"
+      "resultsUrl": "https://www.baselinewaterski.com/news/record-breaking-performances-headline-inaugural-nautique-world-series-stop-at-botaski/",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2026/07/SnapInsta.to_730459151_18595198201002368_9000455621481547281_n-scaled.jpg",
+      "imageCredit": "@eric.steiner.realtor.foto, via Baseline"
     },
     {
       "id": "naut-rocky-mountain-proam-2026",
@@ -947,7 +968,9 @@
           ]
         }
       ],
-      "resultsUrl": "https://www.baselinewaterski.com/news/joel-poland-makes-history-at-a-rocky-mountain-proam-full-of-drama/"
+      "resultsUrl": "https://www.baselinewaterski.com/news/joel-poland-makes-history-at-a-rocky-mountain-proam-full-of-drama/",
+      "imageUrl": "https://i0.wp.com/nautique.blob.core.windows.net/pressreleases/237/e3f24b07-e3d0-4d50-b6cd-1fba61bb7c53.jpg?w=1400",
+      "imageCredit": "Nautique"
     },
     {
       "id": "naut-california-proam-2026",
@@ -993,7 +1016,9 @@
           ]
         }
       ],
-      "resultsUrl": "https://nautique.com/press/24th-annual-california-proam-delivers-historic-performances"
+      "resultsUrl": "https://nautique.com/press/24th-annual-california-proam-delivers-historic-performances",
+      "imageUrl": "https://i0.wp.com/nautique.blob.core.windows.net/pressreleases/239/c2edc43a-b6e9-402c-8a49-579a9fbbac39.JPG?w=1400",
+      "imageCredit": "Nautique"
     },
     {
       "id": "naut-moomba-masters-2027",
@@ -1009,8 +1034,8 @@
       "end": "2027-03-08",
       "note": "Fourth stop of the World Series, inside the Moomba Festival. Champions earn Masters invitations.",
       "url": "https://www.moombamasters.com.au/",
-      "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
-      "imageCredit": "moombamasters.com.au"
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2025/03/482027692_1056344996303091_2171812157741985277_n.jpg",
+      "imageCredit": "Moomba Masters, via Baseline (2025)"
     },
     {
       "id": "naut-masters-lcq-2027",
@@ -1024,7 +1049,9 @@
       ],
       "lane": "naut",
       "end": "2027-05-16",
-      "note": "Last chance qualifier for Masters invitations. It does not count for World Series points."
+      "note": "Last chance qualifier for Masters invitations. It does not count for World Series points.",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2025/08/SnapInsta.to_500671658_17879435958324624_8344048427341286514_n-819x1024.jpg",
+      "imageCredit": "@bretellisphotography, via Baseline (2025 Masters)"
     },
     {
       "id": "naut-nautique-masters-2027",
@@ -1038,7 +1065,9 @@
       ],
       "lane": "naut",
       "end": "2027-05-30",
-      "note": "Final stop and the culminating points event of the World Series. $18,000 purse in each discipline."
+      "note": "Final stop and the culminating points event of the World Series. $18,000 purse in each discipline.",
+      "imageUrl": "https://i0.wp.com/nautique.blob.core.windows.net/pressreleases/190/240718d4-2375-437d-85a1-6c5286366cbf.jpg?w=1400",
+      "imageCredit": "Nautique"
     },
     {
       "id": "solo-moomba-masters-2026",
@@ -1123,8 +1152,8 @@
       ],
       "resultsUrl": "https://www.baselinewaterski.com/news/moomba-delivers-record-scores-breakout-stars-and-riverbank-chaos/",
       "replayUrl": "https://www.youtube.com/watch?v=-jrL3r-TLzY",
-      "imageUrl": "https://www.moombamasters.com.au/wp-content/uploads/2025/10/WATERSKIER.png",
-      "imageCredit": "moombamasters.com.au"
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2025/03/482027692_1056344996303091_2171812157741985277_n.jpg",
+      "imageCredit": "Moomba Masters, via Baseline (2025)"
     },
     {
       "id": "solo-nautique-masters-2026",
@@ -1196,7 +1225,9 @@
           ]
         }
       ],
-      "resultsUrl": "https://www.usawaterski.org/news/2026/may/26/2026-nautique-masters-recap"
+      "resultsUrl": "https://www.usawaterski.org/news/2026/may/26/2026-nautique-masters-recap",
+      "imageUrl": "https://i0.wp.com/nautique.blob.core.windows.net/pressreleases/190/240718d4-2375-437d-85a1-6c5286366cbf.jpg?w=1400",
+      "imageCredit": "Nautique"
     },
     {
       "id": "solo-fungliss-proam-2026",
@@ -1352,7 +1383,9 @@
           ]
         }
       ],
-      "resultsUrl": "https://www.usawaterski.org/news/2026/april/06/2026-u17-worlds-results-"
+      "resultsUrl": "https://www.usawaterski.org/news/2026/april/06/2026-u17-worlds-results-",
+      "imageUrl": "https://res.cloudinary.com/usopc-prod/image/upload/c_fill,g_faces:auto,h_630,w_1200/q_auto/f_jpg/v1/NGB%20Water%20Ski%20and%20Wake%20Sports/EF1AD933-C187-416A-A107-ADCB30641BD0_wgdy7i",
+      "imageCredit": "USA Water Ski"
     },
     {
       "id": "worlds-over-35-world-championships-2026",
@@ -1560,7 +1593,9 @@
           ]
         }
       ],
-      "resultsUrl": "https://www.usawaterski.org/news/2026/july/29/2026-35-worlds-results"
+      "resultsUrl": "https://www.usawaterski.org/news/2026/july/29/2026-35-worlds-results",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/609700ce51e51924365316d9/1731625273800-VHWQ8TXOULB6FBM82F3V/_JH47067.JPG?format=1500w",
+      "imageCredit": "Predator Bay Water Ski Club"
     },
     {
       "id": "worlds-under-21-world-championships-2027",
@@ -1575,7 +1610,9 @@
       ],
       "lane": "worlds",
       "end": "2027-01-16",
-      "note": "City to be confirmed."
+      "note": "City to be confirmed.",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2025/08/SnapInsta.to_527741535_18518140663039575_5217488367475589464_n.jpg",
+      "imageCredit": "@johnnyhayward_photo, via Baseline (2025 U21 Worlds)"
     },
     {
       "id": "worlds-world-waterski-championships-2027",
@@ -1590,7 +1627,9 @@
       "lane": "worlds",
       "end": "2027-02-21",
       "note": "40th IWWF World Waterski Championships. Slalom and trick finals Feb. 20, jump finals and men's trick Feb. 21. Towed by Malibu Boats.",
-      "url": "https://iwwf.sport/world-title-events/openworlds2027/"
+      "url": "https://iwwf.sport/world-title-events/openworlds2027/",
+      "imageUrl": "https://www.baselinewaterski.com/wp-content/uploads/2024/10/Mulwala-1024x768-1.jpeg",
+      "imageCredit": "Baseline (Max Kirwan Ski Park)"
     }
   ]
 }
