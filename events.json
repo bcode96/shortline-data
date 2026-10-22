@@ -7,7 +7,8 @@
    "name": "Waterski Pro Tour",
    "blurb": "IWWF-sanctioned and season-long. Mostly slalom, with trick and jump stops.",
    "unit": "stop",
-   "url": "https://www.waterskiprotour.com"
+   "url": "https://www.waterskiprotour.com",
+   "imageUrl": "https://static.wixstatic.com/media/006129_2473d4bbf3e245d0ae0e83cf0145e98a~mv2.jpg/v1/fill/w_980,h_655,al_c,q_85/006129_2473d4bbf3e245d0ae0e83cf0145e98a~mv2.jpg"
   },
   {
    "id": "wws",
@@ -15,7 +16,8 @@
    "name": "WWS Overall Tour",
    "blurb": "Overall skiing: slalom, trick and jump scored together. Four stops in North America and Europe.",
    "unit": "stop",
-   "url": "https://worldwaterskiers.com"
+   "url": "https://worldwaterskiers.com",
+   "imageUrl": "https://worldwaterskiers.com/uploads/settings/eafc3c1ec8dfb701570b7449d832a91330e6e68301e661eea4b4abf6992b173e.jpg"
   },
   {
    "id": "naut",
