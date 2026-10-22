@@ -1,0 +1,775 @@
+{
+ "updated": "2026-10-20",
+ "sources": {
+  "protour": {
+   "name": "Waterski Pro Tour",
+   "url": "https://www.waterskiprotour.com"
+  },
+  "iwwf": {
+   "name": "World rankings",
+   "url": "https://worldwaterskiers.com/rankings/iwwf-weekly-rankings"
+  }
+ },
+ "boards": [
+  {
+   "id": "protour-S-M",
+   "source": "protour",
+   "discipline": "S",
+   "gender": "M",
+   "title": "Men's slalom",
+   "subtitle": "2026 season points, after the Travers Grand Prix",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Charlie Ross",
+     "country": "CAN",
+     "value": "332 pts"
+    },
+    {
+     "rank": 2,
+     "name": "Freddie Winter",
+     "country": "GBR",
+     "value": "314 pts"
+    },
+    {
+     "rank": 3,
+     "name": "William Asher",
+     "country": "GBR",
+     "value": "234 pts"
+    },
+    {
+     "rank": 4,
+     "name": "Dane Mechler",
+     "country": "USA",
+     "value": "163 pts"
+    },
+    {
+     "rank": 5,
+     "name": "Thomas Degasperi",
+     "country": "ITA",
+     "value": "127 pts"
+    },
+    {
+     "rank": 6,
+     "name": "Sacha Descuns",
+     "country": "FRA",
+     "value": "123 pts"
+    },
+    {
+     "rank": 7,
+     "name": "Tim Tornquist",
+     "country": "SWE",
+     "value": "111 pts"
+    },
+    {
+     "rank": 8,
+     "name": "Nate Smith",
+     "country": "USA",
+     "value": "104 pts"
+    },
+    {
+     "rank": 9,
+     "name": "Brando Caruso",
+     "country": "ITA",
+     "value": "101 pts"
+    },
+    {
+     "rank": 10,
+     "name": "Jonathan Travers",
+     "country": "USA",
+     "value": "100 pts"
+    }
+   ]
+  },
+  {
+   "id": "protour-S-W",
+   "source": "protour",
+   "discipline": "S",
+   "gender": "W",
+   "title": "Women's slalom",
+   "subtitle": "2026 season points, after the Travers Grand Prix",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Jaimee Bull",
+     "country": "CAN",
+     "value": "374 pts"
+    },
+    {
+     "rank": 2,
+     "name": "Elizabeth Montavon",
+     "country": "USA",
+     "value": "206 pts"
+    },
+    {
+     "rank": 3,
+     "name": "Neilly Ross",
+     "country": "CAN",
+     "value": "185 pts"
+    },
+    {
+     "rank": 4,
+     "name": "Allie Nicholson",
+     "country": "USA",
+     "value": "176 pts"
+    },
+    {
+     "rank": 5,
+     "name": "Regina Jaquess",
+     "country": "USA",
+     "value": "170 pts"
+    },
+    {
+     "rank": 6,
+     "name": "Alice Bagnoli",
+     "country": "ITA",
+     "value": "168 pts"
+    },
+    {
+     "rank": 7,
+     "name": "Kennedy Hansen",
+     "country": "USA",
+     "value": "157 pts"
+    },
+    {
+     "rank": 8,
+     "name": "Sade Ferguson",
+     "country": "AUS",
+     "value": "129 pts"
+    },
+    {
+     "rank": 9,
+     "name": "Alexandra Garcia",
+     "country": "USA",
+     "value": "121 pts"
+    },
+    {
+     "rank": 10,
+     "name": "Annemarie Wroblewski",
+     "country": "USA",
+     "value": "50 pts"
+    }
+   ]
+  },
+  {
+   "id": "protour-J-M",
+   "source": "protour",
+   "discipline": "J",
+   "gender": "M",
+   "title": "Men's jump",
+   "subtitle": "2026 season points, after the Travers Grand Prix",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Joel Poland",
+     "country": "GBR",
+     "value": "124 pts"
+    },
+    {
+     "rank": 2,
+     "name": "Edoardo Marenzi",
+     "country": "ITA",
+     "value": "66 pts"
+    },
+    {
+     "rank": 3,
+     "name": "Luca Rauchenwald",
+     "country": "AUT",
+     "value": "59 pts"
+    },
+    {
+     "rank": 4,
+     "name": "Igor Morozov",
+     "country": "",
+     "value": "52 pts"
+    },
+    {
+     "rank": 5,
+     "name": "Carter Lucas",
+     "country": "CAN",
+     "value": "48 pts"
+    },
+    {
+     "rank": 6,
+     "name": "William Roberts",
+     "country": "USA",
+     "value": "40 pts"
+    },
+    {
+     "rank": 7,
+     "name": "Tim Wild",
+     "country": "GER",
+     "value": "34 pts"
+    },
+    {
+     "rank": 8,
+     "name": "Quinn Haines",
+     "country": "USA",
+     "value": "30 pts"
+    },
+    {
+     "rank": 8,
+     "name": "Emile Ritter",
+     "country": "CHI",
+     "value": "30 pts"
+    },
+    {
+     "rank": 10,
+     "name": "Danylo Filchenko",
+     "country": "UKR",
+     "value": "27 pts"
+    }
+   ]
+  },
+  {
+   "id": "protour-J-W",
+   "source": "protour",
+   "discipline": "J",
+   "gender": "W",
+   "title": "Women's jump",
+   "subtitle": "2026 season points, after the Travers Grand Prix",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Aliaksandra Danisheuskaya",
+     "country": "USA",
+     "value": "102 pts"
+    },
+    {
+     "rank": 2,
+     "name": "Regina Jaquess",
+     "country": "USA",
+     "value": "58 pts"
+    },
+    {
+     "rank": 3,
+     "name": "Giannina Bonnemann",
+     "country": "GER",
+     "value": "42 pts"
+    },
+    {
+     "rank": 4,
+     "name": "Nellie Allard",
+     "country": "CAN",
+     "value": "40 pts"
+    },
+    {
+     "rank": 5,
+     "name": "Lauren Morgan",
+     "country": "USA",
+     "value": "33 pts"
+    },
+    {
+     "rank": 6,
+     "name": "Maise Jacobsen",
+     "country": "DEN",
+     "value": "20 pts"
+    },
+    {
+     "rank": 6,
+     "name": "Aaliyah Yoong Hanifah",
+     "country": "MYS",
+     "value": "20 pts"
+    },
+    {
+     "rank": 8,
+     "name": "Linda Polidorova",
+     "country": "CZE",
+     "value": "16 pts"
+    },
+    {
+     "rank": 9,
+     "name": "Kate Pinsonneault",
+     "country": "CAN",
+     "value": "15 pts"
+    },
+    {
+     "rank": 10,
+     "name": "Scarlett Graham",
+     "country": "ITA",
+     "value": "12 pts"
+    }
+   ]
+  },
+  {
+   "id": "iwwf-S-M",
+   "source": "iwwf",
+   "discipline": "S",
+   "gender": "M",
+   "title": "Men's slalom",
+   "subtitle": "IWWF weekly list, updated Oct 7, 2026. Ranked on each skier's two best scores.",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Charlie Ross",
+     "country": "CAN",
+     "value": "2.00 @ 9.75m",
+     "detail": "1.50 @ 9.75m"
+    },
+    {
+     "rank": 2,
+     "name": "Frederick Winter",
+     "country": "GBR",
+     "value": "1.50 @ 9.75m",
+     "detail": "1.50 @ 9.75m"
+    },
+    {
+     "rank": 3,
+     "name": "Jonathan Travers",
+     "country": "USA",
+     "value": "1.00 @ 9.75m",
+     "detail": "0.50 @ 9.75m"
+    },
+    {
+     "rank": 4,
+     "name": "Nate Smith",
+     "country": "USA",
+     "value": "1.00 @ 9.75m",
+     "detail": "5.50 @ 10.25m"
+    },
+    {
+     "rank": 5,
+     "name": "William Asher",
+     "country": "GBR",
+     "value": "1.00 @ 9.75m",
+     "detail": "5.00 @ 10.25m"
+    },
+    {
+     "rank": 6,
+     "name": "Dane Mechler",
+     "country": "USA",
+     "value": "0.50 @ 9.75m",
+     "detail": "5.00 @ 10.25m"
+    },
+    {
+     "rank": 7,
+     "name": "Sacha Descuns",
+     "country": "FRA",
+     "value": "5.00 @ 10.25m",
+     "detail": "5.00 @ 10.25m"
+    },
+    {
+     "rank": 8,
+     "name": "Matteo Luzzeri",
+     "country": "ITA",
+     "value": "5.00 @ 10.25m",
+     "detail": "3.00 @ 10.25m"
+    },
+    {
+     "rank": 9,
+     "name": "Tim Törnquist",
+     "country": "SWE",
+     "value": "4.00 @ 10.25m",
+     "detail": "4.00 @ 10.25m"
+    },
+    {
+     "rank": 10,
+     "name": "Cole McCormick",
+     "country": "CAN",
+     "value": "4.00 @ 10.25m",
+     "detail": "4.00 @ 10.25m"
+    }
+   ]
+  },
+  {
+   "id": "iwwf-S-W",
+   "source": "iwwf",
+   "discipline": "S",
+   "gender": "W",
+   "title": "Women's slalom",
+   "subtitle": "IWWF weekly list, updated Oct 7, 2026. Ranked on each skier's two best scores.",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Regina Jaquess",
+     "country": "USA",
+     "value": "4.00 @ 10.25m",
+     "detail": "3.00 @ 10.25m"
+    },
+    {
+     "rank": 2,
+     "name": "Jaimee Bull",
+     "country": "CAN",
+     "value": "3.00 @ 10.25m",
+     "detail": "2.00 @ 10.25m"
+    },
+    {
+     "rank": 3,
+     "name": "Allie Nicholson",
+     "country": "USA",
+     "value": "1.00 @ 10.25m",
+     "detail": "4.00 @ 10.75m"
+    },
+    {
+     "rank": 4,
+     "name": "Elizabeth Montavon",
+     "country": "USA",
+     "value": "0.50 @ 10.25m",
+     "detail": "4.00 @ 10.75m"
+    },
+    {
+     "rank": 5,
+     "name": "Kennedy Hansen",
+     "country": "USA",
+     "value": "5.00 @ 10.75m",
+     "detail": "4.00 @ 10.75m"
+    },
+    {
+     "rank": 6,
+     "name": "Alexandra Garcia",
+     "country": "USA",
+     "value": "4.00 @ 10.75m",
+     "detail": "4.00 @ 10.75m"
+    },
+    {
+     "rank": 7,
+     "name": "Cristhiana De Osma",
+     "country": "PER",
+     "value": "4.00 @ 10.75m",
+     "detail": "3.50 @ 10.75m"
+    },
+    {
+     "rank": 8,
+     "name": "Whitney McClintock Rini",
+     "country": "CAN",
+     "value": "4.00 @ 10.75m",
+     "detail": "3.50 @ 10.75m"
+    },
+    {
+     "rank": 9,
+     "name": "Alexia Abelson",
+     "country": "USA",
+     "value": "4.00 @ 10.75m",
+     "detail": "3.00 @ 10.75m"
+    },
+    {
+     "rank": 10,
+     "name": "Sade Ferguson",
+     "country": "AUS",
+     "value": "3.50 @ 10.75m",
+     "detail": "3.50 @ 10.75m"
+    }
+   ]
+  },
+  {
+   "id": "iwwf-T-M",
+   "source": "iwwf",
+   "discipline": "T",
+   "gender": "M",
+   "title": "Men's trick",
+   "subtitle": "IWWF weekly list, updated Oct 7, 2026. Ranked on each skier's two best scores.",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Jake Abelson",
+     "country": "USA",
+     "value": "13,030 pts",
+     "detail": "13,030 pts"
+    },
+    {
+     "rank": 2,
+     "name": "Matias Gonzalez",
+     "country": "CHI",
+     "value": "13,030 pts",
+     "detail": "13,010 pts"
+    },
+    {
+     "rank": 3,
+     "name": "Martin Labra",
+     "country": "CHI",
+     "value": "12,940 pts",
+     "detail": "12,940 pts"
+    },
+    {
+     "rank": 4,
+     "name": "Patricio Font",
+     "country": "MEX",
+     "value": "12,840 pts",
+     "detail": "12,840 pts"
+    },
+    {
+     "rank": 5,
+     "name": "Joel Poland",
+     "country": "GBR",
+     "value": "12,910 pts",
+     "detail": "12,510 pts"
+    },
+    {
+     "rank": 6,
+     "name": "Louis Duplan Fribourg",
+     "country": "FRA",
+     "value": "12,010 pts",
+     "detail": "11,810 pts"
+    },
+    {
+     "rank": 7,
+     "name": "Danylo Filchenko",
+     "country": "UKR",
+     "value": "12,020 pts",
+     "detail": "11,730 pts"
+    },
+    {
+     "rank": 8,
+     "name": "Axel Garcia",
+     "country": "FRA",
+     "value": "11,770 pts",
+     "detail": "11,450 pts"
+    },
+    {
+     "rank": 9,
+     "name": "Dorien Llewellyn",
+     "country": "CAN",
+     "value": "11,400 pts",
+     "detail": "11,350 pts"
+    },
+    {
+     "rank": 10,
+     "name": "Edoardo Marenzi",
+     "country": "ITA",
+     "value": "11,320 pts",
+     "detail": "11,000 pts"
+    }
+   ]
+  },
+  {
+   "id": "iwwf-T-W",
+   "source": "iwwf",
+   "discipline": "T",
+   "gender": "W",
+   "title": "Women's trick",
+   "subtitle": "IWWF weekly list, updated Oct 7, 2026. Ranked on each skier's two best scores.",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Erika Lang",
+     "country": "USA",
+     "value": "11,710 pts",
+     "detail": "11,700 pts"
+    },
+    {
+     "rank": 2,
+     "name": "Neilly Ross",
+     "country": "CAN",
+     "value": "11,480 pts",
+     "detail": "10,880 pts"
+    },
+    {
+     "rank": 3,
+     "name": "Anna Hunter",
+     "country": "USA",
+     "value": "10,940 pts",
+     "detail": "10,760 pts"
+    },
+    {
+     "rank": 4,
+     "name": "Giannina Bonnemann Mechler",
+     "country": "GER",
+     "value": "10,470 pts",
+     "detail": "10,470 pts"
+    },
+    {
+     "rank": 5,
+     "name": "Kennedy Hansen",
+     "country": "USA",
+     "value": "10,230 pts",
+     "detail": "10,230 pts"
+    },
+    {
+     "rank": 6,
+     "name": "Alexia Abelson",
+     "country": "USA",
+     "value": "10,030 pts",
+     "detail": "9,940 pts"
+    },
+    {
+     "rank": 7,
+     "name": "Paige Pigozzi",
+     "country": "CAN",
+     "value": "9,190 pts",
+     "detail": "8,710 pts"
+    },
+    {
+     "rank": 8,
+     "name": "Hannah Stopnicki",
+     "country": "CAN",
+     "value": "8,880 pts",
+     "detail": "8,840 pts"
+    },
+    {
+     "rank": 9,
+     "name": "Aliaksandra Danisheuskaya",
+     "country": "USA",
+     "value": "8,810 pts",
+     "detail": "8,500 pts"
+    },
+    {
+     "rank": 10,
+     "name": "Daniela Verswyvel G.",
+     "country": "COL",
+     "value": "8,640 pts",
+     "detail": "8,510 pts"
+    }
+   ]
+  },
+  {
+   "id": "iwwf-J-M",
+   "source": "iwwf",
+   "discipline": "J",
+   "gender": "M",
+   "title": "Men's jump",
+   "subtitle": "IWWF weekly list, updated Oct 7, 2026. Ranked on each skier's two best scores.",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Ryan Dodd",
+     "country": "CAN",
+     "value": "73.3 m",
+     "detail": "70.2 m"
+    },
+    {
+     "rank": 2,
+     "name": "Joel Poland",
+     "country": "GBR",
+     "value": "71.4 m",
+     "detail": "71 m"
+    },
+    {
+     "rank": 3,
+     "name": "Luca Rauchenwald",
+     "country": "AUT",
+     "value": "71.1 m",
+     "detail": "68.1 m"
+    },
+    {
+     "rank": 4,
+     "name": "Jack Critchley",
+     "country": "GBR",
+     "value": "68.6 m",
+     "detail": "67.9 m"
+    },
+    {
+     "rank": 5,
+     "name": "Louis Duplan Fribourg",
+     "country": "FRA",
+     "value": "68.1 m",
+     "detail": "67.2 m"
+    },
+    {
+     "rank": 6,
+     "name": "Dorien Llewellyn",
+     "country": "CAN",
+     "value": "68.1 m",
+     "detail": "66.7 m"
+    },
+    {
+     "rank": 7,
+     "name": "Tim Wild",
+     "country": "GER",
+     "value": "67.1 m",
+     "detail": "66.5 m"
+    },
+    {
+     "rank": 8,
+     "name": "William Roberts",
+     "country": "USA",
+     "value": "66.4 m",
+     "detail": "66.4 m"
+    },
+    {
+     "rank": 9,
+     "name": "Emile Ritter",
+     "country": "CHI",
+     "value": "66.9 m",
+     "detail": "65.4 m"
+    },
+    {
+     "rank": 10,
+     "name": "Edoardo Marenzi",
+     "country": "ITA",
+     "value": "65.9 m",
+     "detail": "65.3 m"
+    }
+   ]
+  },
+  {
+   "id": "iwwf-J-W",
+   "source": "iwwf",
+   "discipline": "J",
+   "gender": "W",
+   "title": "Women's jump",
+   "subtitle": "IWWF weekly list, updated Oct 7, 2026. Ranked on each skier's two best scores.",
+   "entries": [
+    {
+     "rank": 1,
+     "name": "Aliaksandra Danisheuskaya",
+     "country": "USA",
+     "value": "56.3 m",
+     "detail": "54.6 m"
+    },
+    {
+     "rank": 2,
+     "name": "Giannina Bonnemann Mechler",
+     "country": "GER",
+     "value": "53.4 m",
+     "detail": "53.4 m"
+    },
+    {
+     "rank": 3,
+     "name": "Maise Jacobsen",
+     "country": "DEN",
+     "value": "53.3 m",
+     "detail": "51.7 m"
+    },
+    {
+     "rank": 4,
+     "name": "Lauren Morgan",
+     "country": "USA",
+     "value": "51.6 m",
+     "detail": "51.3 m"
+    },
+    {
+     "rank": 5,
+     "name": "Regina Jaquess",
+     "country": "USA",
+     "value": "51.9 m",
+     "detail": "50.9 m"
+    },
+    {
+     "rank": 6,
+     "name": "Kennedy Hansen",
+     "country": "USA",
+     "value": "51.3 m",
+     "detail": "49.8 m"
+    },
+    {
+     "rank": 7,
+     "name": "Jutta Menestrina",
+     "country": "FIN",
+     "value": "50.1 m",
+     "detail": "49.6 m"
+    },
+    {
+     "rank": 8,
+     "name": "Agustina Varas",
+     "country": "CHI",
+     "value": "49.5 m",
+     "detail": "48.7 m"
+    },
+    {
+     "rank": 9,
+     "name": "Aaliyah Yoong Hanifah",
+     "country": "MAS",
+     "value": "49.6 m",
+     "detail": "47.9 m"
+    },
+    {
+     "rank": 10,
+     "name": "Kristy Appleton",
+     "country": "AUS",
+     "value": "48.7 m",
+     "detail": "48.7 m"
+    }
+   ]
+  }
+ ]
+}
