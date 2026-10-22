@@ -326,7 +326,9 @@
    "end": "2026-09-13",
    "flag": "It was a Pro Tour stop in 2025. Its 2026 tour status was not confirmed.",
    "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S022",
-   "imageCredit": "waterskiprotour.com"
+   "imageCredit": "waterskiprotour.com",
+   "resultsUrl": "https://www.iwwfed-ea.net/classic/26USA078/",
+   "replayUrl": "https://www.youtube.com/watch?v=Dd8udX8VCng"
   },
   {
    "id": "pro-mastercraft-pro-2026",
@@ -479,7 +481,50 @@
    "end": "2026-09-27",
    "note": "The tour lists this as its 11th stop of 2026.",
    "scoresUrl": "https://scores.waterskiresults.com/default?YR=27&RG=&sanctionId=27S015",
-   "imageCredit": "waterskiprotour.com"
+   "imageCredit": "waterskiprotour.com",
+   "results": [
+    {
+     "name": "Women's slalom",
+     "entries": [
+      {
+       "place": 1,
+       "name": "Regina Jaquess (USA)",
+       "score": "2 @ 10.25m"
+      },
+      {
+       "place": 2,
+       "name": "Jaimee Bull (CAN)",
+       "score": "2 @ 10.25m"
+      },
+      {
+       "place": 3,
+       "name": "Elizabeth Montavon (USA)",
+       "score": "4 @ 10.75m"
+      }
+     ]
+    },
+    {
+     "name": "Men's slalom",
+     "entries": [
+      {
+       "place": 1,
+       "name": "Dane Mechler (USA)",
+       "score": "0.5 @ 9.75m"
+      },
+      {
+       "place": 2,
+       "name": "William Asher (GBR)",
+       "score": "5 @ 10.25m"
+      },
+      {
+       "place": 3,
+       "name": "Jonathan Travers (USA)",
+       "score": "5 @ 10.25m"
+      }
+     ]
+    }
+   ],
+   "resultsUrl": "https://www.iwwfed-ea.net/classic/27USAS015/"
   },
   {
    "id": "pro-miami-pro-2026",
@@ -530,7 +575,50 @@
    "lane": "wws",
    "end": "2026-08-09",
    "note": "Also called the Salmsee Cup.",
-   "imageCredit": "worldwaterskiers.com"
+   "imageCredit": "worldwaterskiers.com",
+   "results": [
+    {
+     "name": "Pro women, overall",
+     "entries": [
+      {
+       "place": 1,
+       "name": "Kennedy Hansen (USA)",
+       "score": "2887.82 pts"
+      },
+      {
+       "place": 2,
+       "name": "Giannina Bonnemann Mechler (GER)",
+       "score": "2877.55 pts"
+      },
+      {
+       "place": 3,
+       "name": "Brooke Boskus (USA)",
+       "score": "1675.23 pts"
+      }
+     ]
+    },
+    {
+     "name": "Pro men, overall",
+     "entries": [
+      {
+       "place": 1,
+       "name": "Joel Poland (GBR)",
+       "score": "3000.00 pts"
+      },
+      {
+       "place": 2,
+       "name": "Edoardo Marenzi (ITA)",
+       "score": "2746.03 pts"
+      },
+      {
+       "place": 3,
+       "name": "Dorien Llewellyn (CAN)",
+       "score": "2644.52 pts"
+      }
+     ]
+    }
+   ],
+   "resultsUrl": "https://www.iwwfed-ea.net/classic/26AUT006/"
   },
   {
    "id": "wws-wws-groveland-cup-2026",
